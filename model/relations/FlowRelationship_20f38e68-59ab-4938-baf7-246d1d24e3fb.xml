@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Timesheet &amp; leave"
+    id="20f38e68-59ab-4938-baf7-246d1d24e3fb">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_4b3018cf-33c4-439f-a095-0305cb9c9119.xml#4b3018cf-33c4-439f-a095-0305cb9c9119"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_1df19376-7019-4c4f-9630-d4c97524a125.xml#1df19376-7019-4c4f-9630-d4c97524a125"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HRP data"
+    id="69dae430-5d19-45e0-b82c-07463c2edf64">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_4b3018cf-33c4-439f-a095-0305cb9c9119.xml#4b3018cf-33c4-439f-a095-0305cb9c9119"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e975afbb-79b9-493d-8e57-41c5ffcdad7c.xml#e975afbb-79b9-493d-8e57-41c5ffcdad7c"/>
+</archimate:FlowRelationship>
