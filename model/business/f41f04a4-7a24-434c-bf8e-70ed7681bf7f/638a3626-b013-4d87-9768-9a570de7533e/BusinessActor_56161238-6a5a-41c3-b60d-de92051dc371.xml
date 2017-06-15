@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Corporate Services"
+    id="56161238-6a5a-41c3-b60d-de92051dc371">
+  <properties
+      key="stereotype"
+      value="portfolio"/>
+</archimate:BusinessActor>

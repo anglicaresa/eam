@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aboriginal Services"
+    id="d53428e9-3a13-4b2f-ba2e-cd303c8041e0">
+  <properties
+      key="stereotype"
+      value="portfolio"/>
+</archimate:BusinessActor>

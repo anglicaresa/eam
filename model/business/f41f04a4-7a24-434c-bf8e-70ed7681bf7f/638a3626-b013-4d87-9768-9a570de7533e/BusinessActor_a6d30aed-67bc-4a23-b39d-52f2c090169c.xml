@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Community Services"
+    id="a6d30aed-67bc-4a23-b39d-52f2c090169c">
+  <properties
+      key="stereotype"
+      value="portfolio"/>
+</archimate:BusinessActor>

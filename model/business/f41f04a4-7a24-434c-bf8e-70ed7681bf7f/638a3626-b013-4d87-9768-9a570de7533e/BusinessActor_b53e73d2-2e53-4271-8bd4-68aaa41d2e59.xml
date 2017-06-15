@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="People &amp; Culture"
+    id="b53e73d2-2e53-4271-8bd4-68aaa41d2e59">
+  <properties
+      key="stereotype"
+      value="portfolio"/>
+</archimate:BusinessActor>

@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Housing and Development"
+    id="81319bd5-6797-45cc-a151-ca1302ddf33e">
+  <properties
+      key="stereotype"
+      value="portfolio"/>
+</archimate:BusinessActor>

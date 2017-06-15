@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Chief Executive"
+    id="1af857de-50ae-4b0d-8d0f-27bcae9e1361">
+  <properties
+      key="stereotype"
+      value="portfolio"/>
+</archimate:BusinessActor>

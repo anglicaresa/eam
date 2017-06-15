@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marketing &amp; Strategy"
+    id="250ac809-8a0a-4568-b898-40206d600beb">
+  <properties
+      key="stereotype"
+      value="portfolio"/>
+</archimate:BusinessActor>

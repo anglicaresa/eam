@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Finance"
+    id="affb3ae3-4249-4769-831b-9f40e9af522f">
+  <properties
+      key="stereotype"
+      value="service stream"/>
+</archimate:BusinessActor>

@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mission &amp; Anglican Community Engagement"
+    id="58465836-00dc-4ea4-9c4d-2ef4ae4f96f3">
+  <properties
+      key="stereotype"
+      value="portfolio"/>
+</archimate:BusinessActor>

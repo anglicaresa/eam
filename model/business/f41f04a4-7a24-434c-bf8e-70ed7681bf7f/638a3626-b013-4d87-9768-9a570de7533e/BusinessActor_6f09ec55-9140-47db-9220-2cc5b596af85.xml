@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Active Living"
+    id="6f09ec55-9140-47db-9220-2cc5b596af85">
+  <properties
+      key="stereotype"
+      value="portfolio"/>
+</archimate:BusinessActor>

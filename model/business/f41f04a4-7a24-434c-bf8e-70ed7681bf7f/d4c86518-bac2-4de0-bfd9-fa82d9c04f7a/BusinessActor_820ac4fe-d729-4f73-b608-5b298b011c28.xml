@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procurement"
+    id="820ac4fe-d729-4f73-b608-5b298b011c28">
+  <properties
+      key="stereotype"
+      value="service stream"/>
+</archimate:BusinessActor>

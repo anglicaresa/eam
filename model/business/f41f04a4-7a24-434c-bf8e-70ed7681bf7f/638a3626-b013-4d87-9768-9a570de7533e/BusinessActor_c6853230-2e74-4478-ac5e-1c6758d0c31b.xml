@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Governance Quality &amp; Performance"
+    id="c6853230-2e74-4478-ac5e-1c6758d0c31b">
+  <properties
+      key="stereotype"
+      value="portfolio"/>
+</archimate:BusinessActor>

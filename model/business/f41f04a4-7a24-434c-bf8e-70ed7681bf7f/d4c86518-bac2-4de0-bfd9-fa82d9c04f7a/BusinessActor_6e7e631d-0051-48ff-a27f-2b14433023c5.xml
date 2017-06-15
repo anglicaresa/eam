@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information &amp; Technology"
+    id="6e7e631d-0051-48ff-a27f-2b14433023c5">
+  <properties
+      key="stereotype"
+      value="service stream"/>
+</archimate:BusinessActor>
