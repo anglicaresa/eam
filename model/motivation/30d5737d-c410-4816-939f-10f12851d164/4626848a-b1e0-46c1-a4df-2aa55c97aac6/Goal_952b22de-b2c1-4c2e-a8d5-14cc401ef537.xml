@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strong and sustainable"
+    id="952b22de-b2c1-4c2e-a8d5-14cc401ef537"
+    documentation="AnglicareSA has the organisational capacity to continue and grow our strong">
+  <properties
+      key="stereotype"
+      value="strategic theme"/>
+</archimate:Goal>

@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Improve communication"
+    id="5075943a-7812-42f6-9f80-672d105f8322">
+  <properties
+      key="stereotype"
+      value="objective"/>
+</archimate:Goal>

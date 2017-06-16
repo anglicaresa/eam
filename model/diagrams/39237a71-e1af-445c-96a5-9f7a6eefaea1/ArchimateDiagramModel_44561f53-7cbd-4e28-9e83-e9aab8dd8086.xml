@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Application Usage Viewpoint: Payroll"
-    id="44561f53-7cbd-4e28-9e83-e9aab8dd8086">
+    id="44561f53-7cbd-4e28-9e83-e9aab8dd8086"
+    viewpoint="application_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9a1f0def-92b0-4a24-88ff-23aae09155ec"

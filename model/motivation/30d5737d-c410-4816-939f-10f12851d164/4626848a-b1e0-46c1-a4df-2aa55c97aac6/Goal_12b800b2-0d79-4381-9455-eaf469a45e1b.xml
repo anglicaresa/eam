@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Improve governance systems and processes"
+    id="12b800b2-0d79-4381-9455-eaf469a45e1b">
+  <properties
+      key="stereotype"
+      value="objective"/>
+</archimate:Goal>

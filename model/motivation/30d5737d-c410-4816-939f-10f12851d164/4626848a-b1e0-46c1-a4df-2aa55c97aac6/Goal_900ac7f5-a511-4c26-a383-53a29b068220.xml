@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customers first"
+    id="900ac7f5-a511-4c26-a383-53a29b068220">
+  <properties
+      key="stereotype"
+      value="strategic theme"/>
+</archimate:Goal>

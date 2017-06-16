@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Increase growth in services"
+    id="4ba2ca49-1a90-4c6b-8a6c-b939068d4235">
+  <properties
+      key="stereotype"
+      value="objective"/>
+</archimate:Goal>

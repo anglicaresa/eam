@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Improve infrastructure"
+    id="5d4ef9f8-2975-4e8c-9fdf-499a2d980786">
+  <properties
+      key="stereotype"
+      value="objective"/>
+</archimate:Goal>

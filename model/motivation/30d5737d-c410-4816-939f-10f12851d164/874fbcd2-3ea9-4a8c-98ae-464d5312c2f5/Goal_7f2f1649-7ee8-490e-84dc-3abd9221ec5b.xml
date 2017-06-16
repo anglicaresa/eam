@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Improve our customers' wellbeing and satisfaction"
+    id="7f2f1649-7ee8-490e-84dc-3abd9221ec5b">
+  <properties
+      key="stereotype"
+      value="objective"/>
+</archimate:Goal>

@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Improve service design, type and delivery"
+    id="2271922b-95eb-400a-be34-ba5f04f62dca">
+  <properties
+      key="stereotype"
+      value="objective"/>
+</archimate:Goal>
