@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ian George Court"
+    id="9f4b247e-c7a8-448c-9783-7a1ce7865bf3">
+  <properties
+      key="stereotype"
+      value="Program"/>
+</archimate:BusinessActor>

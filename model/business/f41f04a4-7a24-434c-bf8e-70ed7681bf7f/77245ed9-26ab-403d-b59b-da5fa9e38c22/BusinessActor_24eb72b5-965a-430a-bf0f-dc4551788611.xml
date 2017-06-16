@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dutton Court"
+    id="24eb72b5-965a-430a-bf0f-dc4551788611">
+  <properties
+      key="stereotype"
+      value="Program"/>
+</archimate:BusinessActor>

@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Allied Health"
+    id="2c2c14ae-6657-459e-9185-f144c217fe92">
+  <properties
+      key="stereotype"
+      value="Program"/>
+</archimate:BusinessActor>

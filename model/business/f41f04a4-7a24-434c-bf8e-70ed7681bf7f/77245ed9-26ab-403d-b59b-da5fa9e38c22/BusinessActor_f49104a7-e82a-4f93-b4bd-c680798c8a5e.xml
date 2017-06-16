@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finance - Active Living"
+    id="f49104a7-e82a-4f93-b4bd-c680798c8a5e">
+  <properties
+      key="stereotype"
+      value="program"/>
+</archimate:BusinessActor>

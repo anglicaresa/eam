@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT Projects"
+    id="679a8492-feef-4d2d-9f9d-691c995d7daa">
+  <properties
+      key="stereotype"
+      value="program"/>
+</archimate:BusinessActor>

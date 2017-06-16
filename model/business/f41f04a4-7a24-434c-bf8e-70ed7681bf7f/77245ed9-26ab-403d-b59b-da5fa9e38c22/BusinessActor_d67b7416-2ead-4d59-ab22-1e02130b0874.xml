@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Architecture"
+    id="d67b7416-2ead-4d59-ab22-1e02130b0874">
+  <properties
+      key="stereotype"
+      value="program"/>
+</archimate:BusinessActor>

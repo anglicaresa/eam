@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Canterbury Close"
+    id="909b13cc-70a9-43e8-aa95-d9266469b489">
+  <properties
+      key="stereotype"
+      value="Program"/>
+</archimate:BusinessActor>

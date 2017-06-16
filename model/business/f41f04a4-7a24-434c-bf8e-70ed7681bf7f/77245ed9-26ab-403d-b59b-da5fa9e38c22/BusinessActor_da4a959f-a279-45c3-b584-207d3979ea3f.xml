@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grandview Court"
+    id="da4a959f-a279-45c3-b584-207d3979ea3f">
+  <properties
+      key="stereotype"
+      value="Program"/>
+</archimate:BusinessActor>

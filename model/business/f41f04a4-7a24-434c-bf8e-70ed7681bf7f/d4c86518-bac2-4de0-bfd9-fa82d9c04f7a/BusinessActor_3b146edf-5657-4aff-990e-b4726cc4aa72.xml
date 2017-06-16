@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Residential Aged Care"
+    id="3b146edf-5657-4aff-990e-b4726cc4aa72">
+  <properties
+      key="stereotype"
+      value="service stream"/>
+</archimate:BusinessActor>

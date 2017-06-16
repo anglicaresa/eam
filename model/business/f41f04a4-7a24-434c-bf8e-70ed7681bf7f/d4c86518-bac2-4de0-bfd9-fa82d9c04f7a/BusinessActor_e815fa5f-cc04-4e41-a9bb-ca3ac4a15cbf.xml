@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Client Liason"
+    id="e815fa5f-cc04-4e41-a9bb-ca3ac4a15cbf">
+  <properties
+      key="stereotype"
+      value="service stream"/>
+</archimate:BusinessActor>

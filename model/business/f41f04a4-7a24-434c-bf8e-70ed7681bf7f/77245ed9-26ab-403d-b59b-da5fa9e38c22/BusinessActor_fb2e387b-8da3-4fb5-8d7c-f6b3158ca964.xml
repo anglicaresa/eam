@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finance - Community"
+    id="fb2e387b-8da3-4fb5-8d7c-f6b3158ca964">
+  <properties
+      key="stereotype"
+      value="program"/>
+</archimate:BusinessActor>

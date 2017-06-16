@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Home Care North &amp; East"
+    id="4c41dc91-7fa0-45da-8fe8-d7674113c43b">
+  <properties
+      key="stereotype"
+      value="Program"/>
+</archimate:BusinessActor>

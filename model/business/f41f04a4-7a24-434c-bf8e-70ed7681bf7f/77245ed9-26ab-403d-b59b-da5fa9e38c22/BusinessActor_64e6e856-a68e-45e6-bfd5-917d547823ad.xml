@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="St Laurence's Court"
+    id="64e6e856-a68e-45e6-bfd5-917d547823ad">
+  <properties
+      key="stereotype"
+      value="Program"/>
+</archimate:BusinessActor>

@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Home Care &amp; Allied Health Services"
+    id="3eb386e9-2831-44bf-acfa-2ad8d52e9e27">
+  <properties
+      key="stereotype"
+      value="service stream"/>
+</archimate:BusinessActor>

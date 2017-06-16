@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Home Care South &amp; West"
+    id="29d1cabc-a9f2-4b0e-baef-78ac90fb872a">
+  <properties
+      key="stereotype"
+      value="Program"/>
+</archimate:BusinessActor>

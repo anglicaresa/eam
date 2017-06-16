@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finance - Housing"
+    id="237dc50b-ea21-4bbf-a495-8cf1cf4e0293">
+  <properties
+      key="stereotype"
+      value="program"/>
+</archimate:BusinessActor>

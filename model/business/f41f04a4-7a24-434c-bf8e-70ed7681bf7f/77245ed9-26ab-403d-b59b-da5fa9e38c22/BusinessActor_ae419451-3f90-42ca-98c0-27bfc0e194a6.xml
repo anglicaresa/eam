@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="All Hallows"
+    id="ae419451-3f90-42ca-98c0-27bfc0e194a6">
+  <properties
+      key="stereotype"
+      value="Program"/>
+</archimate:BusinessActor>

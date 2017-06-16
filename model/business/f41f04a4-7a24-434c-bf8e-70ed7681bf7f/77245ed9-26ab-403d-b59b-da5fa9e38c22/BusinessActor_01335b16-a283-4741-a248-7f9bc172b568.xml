@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finance - Corporate Services"
+    id="01335b16-a283-4741-a248-7f9bc172b568">
+  <properties
+      key="stereotype"
+      value="program"/>
+</archimate:BusinessActor>
