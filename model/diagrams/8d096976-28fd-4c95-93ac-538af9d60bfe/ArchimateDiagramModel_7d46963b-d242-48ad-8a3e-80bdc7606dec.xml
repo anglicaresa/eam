@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Process Viewpoint: Rostering"
+    id="7d46963b-d242-48ad-8a3e-80bdc7606dec">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="d7caf437-b38d-4d86-b472-ee268d5fb425">
+    <bounds
+        x="327"
+        y="210"
+        width="658"
+        height="139"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_695394d1-1431-4bec-a195-e9ecd7b791a0.xml#695394d1-1431-4bec-a195-e9ecd7b791a0"/>
+  </children>
+</archimate:ArchimateDiagramModel>
