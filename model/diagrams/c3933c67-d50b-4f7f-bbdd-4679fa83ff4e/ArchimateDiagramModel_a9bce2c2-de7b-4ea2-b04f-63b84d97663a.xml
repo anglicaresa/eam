@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Infrastructure Viewpoint: Comcare"
-    id="a9bce2c2-de7b-4ea2-b04f-63b84d97663a">
+    id="a9bce2c2-de7b-4ea2-b04f-63b84d97663a"
+    viewpoint="technology">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4c6c21d4-805d-4e84-a9a2-4052415140bf">
