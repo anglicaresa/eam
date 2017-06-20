@@ -192,4 +192,22 @@
         xsi:type="archimate:CommunicationNetwork"
         href="CommunicationNetwork_4742ec3b-31ee-4203-b83a-ac01ba00fdc9.xml#4742ec3b-31ee-4203-b83a-ac01ba00fdc9"/>
   </children>
+  <properties
+      key="NAME"
+      value="ComCare Prod DB"/>
+  <properties
+      key="IP"
+      value="10.10.1.229"/>
+  <properties
+      key="CPU"
+      value="4"/>
+  <properties
+      key="RAM"
+      value="24GB"/>
+  <properties
+      key="DISK"
+      value="480GB"/>
+  <properties
+      key="stereotype"
+      value="Win 2012 / MS SQL Server 2012"/>
 </archimate:ArchimateDiagramModel>
