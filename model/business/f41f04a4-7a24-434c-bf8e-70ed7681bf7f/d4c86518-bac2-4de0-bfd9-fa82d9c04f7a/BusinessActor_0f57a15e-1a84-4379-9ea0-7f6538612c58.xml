@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Services"
+    id="0f57a15e-1a84-4379-9ea0-7f6538612c58">
+  <properties
+      key="stereotype"
+      value="service stream"/>
+</archimate:BusinessActor>
