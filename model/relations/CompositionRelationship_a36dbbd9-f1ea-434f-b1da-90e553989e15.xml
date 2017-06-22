@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="a36dbbd9-f1ea-434f-b1da-90e553989e15"
+    documentation="ComCare is composed of Finance&#xD;&#xA;">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_0230daa7-a470-49dc-b42b-86bc623ee0ce.xml#0230daa7-a470-49dc-b42b-86bc623ee0ce"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_1ef57ce8-c51e-4689-89ce-9a2d4b51ceea.xml#1ef57ce8-c51e-4689-89ce-9a2d4b51ceea"/>
+</archimate:CompositionRelationship>

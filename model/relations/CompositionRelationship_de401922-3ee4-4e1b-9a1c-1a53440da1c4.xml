@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="de401922-3ee4-4e1b-9a1c-1a53440da1c4"
+    documentation="Centre Operations is composed of Payroll Export">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_185728fb-129c-45ba-91a3-6a4f4bc9f6b1.xml#185728fb-129c-45ba-91a3-6a4f4bc9f6b1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_1ca39fd1-e66f-4f50-8dc6-e20b3664ee60.xml#1ca39fd1-e66f-4f50-8dc6-e20b3664ee60"/>
+</archimate:CompositionRelationship>
