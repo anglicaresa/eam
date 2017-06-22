@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="db91df64-a6e3-47af-aa20-859667138a3f"
-    documentation="Centre Operations is composed of Timesheet Authorisation">
+    documentation="Scheduling  is composed of Group Activities">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_185728fb-129c-45ba-91a3-6a4f4bc9f6b1.xml#185728fb-129c-45ba-91a3-6a4f4bc9f6b1"/>

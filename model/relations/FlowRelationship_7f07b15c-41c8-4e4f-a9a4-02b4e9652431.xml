@@ -1,11 +1,11 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Timesheet data"
-    id="f86acd87-2c14-4a99-a7d4-4cd1406db1ed">
+    name="Finance data"
+    id="7f07b15c-41c8-4e4f-a9a4-02b4e9652431">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_9c978c8c-8432-41be-82b5-961459d273c6.xml#9c978c8c-8432-41be-82b5-961459d273c6"/>
+      href="ApplicationComponent_0230daa7-a470-49dc-b42b-86bc623ee0ce.xml#0230daa7-a470-49dc-b42b-86bc623ee0ce"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_4b3018cf-33c4-439f-a095-0305cb9c9119.xml#4b3018cf-33c4-439f-a095-0305cb9c9119"/>
