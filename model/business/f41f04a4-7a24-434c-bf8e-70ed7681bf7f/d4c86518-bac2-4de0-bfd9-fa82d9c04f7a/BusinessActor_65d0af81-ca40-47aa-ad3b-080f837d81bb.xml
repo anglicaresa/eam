@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learning &amp; Workforce Development"
+    id="65d0af81-ca40-47aa-ad3b-080f837d81bb">
+  <properties
+      key="stereotype"
+      value="service stream"/>
+</archimate:BusinessActor>

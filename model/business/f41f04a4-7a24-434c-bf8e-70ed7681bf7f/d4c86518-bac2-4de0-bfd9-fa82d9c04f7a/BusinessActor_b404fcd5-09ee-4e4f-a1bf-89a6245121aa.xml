@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Volunteer Management"
+    id="b404fcd5-09ee-4e4f-a1bf-89a6245121aa">
+  <properties
+      key="stereotype"
+      value="service stream"/>
+</archimate:BusinessActor>

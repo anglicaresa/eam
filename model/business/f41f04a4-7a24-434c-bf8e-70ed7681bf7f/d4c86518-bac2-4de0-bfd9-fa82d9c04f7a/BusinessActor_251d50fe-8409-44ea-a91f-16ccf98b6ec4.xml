@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quality Risk &amp; Redesign"
+    id="251d50fe-8409-44ea-a91f-16ccf98b6ec4">
+  <properties
+      key="stereotype"
+      value="service stream"/>
+</archimate:BusinessActor>
