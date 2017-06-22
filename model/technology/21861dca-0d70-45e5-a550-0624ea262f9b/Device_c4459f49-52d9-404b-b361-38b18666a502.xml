@@ -18,4 +18,10 @@
   <properties
       key="DISK"
       value="480GB"/>
+  <properties
+      key="SYSTEM"
+      value="Windows Server 2012"/>
+  <properties
+      key="DATABASE"
+      value="MSSQL 2012"/>
 </archimate:Device>

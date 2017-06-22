@@ -19,6 +19,6 @@
       key="DISK"
       value="555GB"/>
   <properties
-      key="stereotype"
-      value="Win 2012 / File Server"/>
+      key="SYSTEM"
+      value="Windows Server 2012"/>
 </archimate:Device>

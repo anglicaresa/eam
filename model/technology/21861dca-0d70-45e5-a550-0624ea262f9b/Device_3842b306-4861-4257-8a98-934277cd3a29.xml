@@ -17,5 +17,8 @@
       value="32GB"/>
   <properties
       key="DISK"
-      value="60GB?"/>
+      value="60GB"/>
+  <properties
+      key="SYSTEM"
+      value="WINDOWS SERVER 2012R2"/>
 </archimate:Device>
