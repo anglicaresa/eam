@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="76f7ca16-638b-4d41-937b-581f7483c319"
+    documentation="People is composed of Client Management">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_1c0f7a7a-57bc-497b-8e7a-d4a4010196fd.xml#1c0f7a7a-57bc-497b-8e7a-d4a4010196fd"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_9fba4ad8-42b1-47fb-b8e6-d82c33735b8d.xml#9fba4ad8-42b1-47fb-b8e6-d82c33735b8d"/>
+</archimate:CompositionRelationship>

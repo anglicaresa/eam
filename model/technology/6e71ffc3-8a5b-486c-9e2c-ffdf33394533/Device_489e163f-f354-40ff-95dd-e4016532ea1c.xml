@@ -19,6 +19,6 @@
       key="DISK"
       value="50GB"/>
   <properties
-      key="stereotype"
+      key="SYSTEM"
       value="Win 2012 R2"/>
 </archimate:Device>
