@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Weather data"
+    id="9e2cb9b8-6322-47fb-9bb6-21b06b6cb40b">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_9499e29c-e7a8-48bc-98eb-0b2f148b1984.xml#9499e29c-e7a8-48bc-98eb-0b2f148b1984"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e975afbb-79b9-493d-8e57-41c5ffcdad7c.xml#e975afbb-79b9-493d-8e57-41c5ffcdad7c"/>
+</archimate:FlowRelationship>

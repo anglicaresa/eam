@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incidents"
+    id="4795e2dc-6529-45f0-8159-28a763577643">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_b3eac09f-c7f9-4326-93c4-ec1827c90159.xml#b3eac09f-c7f9-4326-93c4-ec1827c90159"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e975afbb-79b9-493d-8e57-41c5ffcdad7c.xml#e975afbb-79b9-493d-8e57-41c5ffcdad7c"/>
+</archimate:FlowRelationship>
