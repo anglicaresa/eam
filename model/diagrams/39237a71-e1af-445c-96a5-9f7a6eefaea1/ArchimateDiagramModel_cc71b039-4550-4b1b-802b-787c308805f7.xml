@@ -2,7 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Application Cooperation Viewpoint: ComCare"
-    id="cc71b039-4550-4b1b-802b-787c308805f7">
+    id="cc71b039-4550-4b1b-802b-787c308805f7"
+    documentation="By JS at 22/06/2017"
+    viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="81bcb1c4-12fc-4c6f-acaf-e7dc1e49786f"

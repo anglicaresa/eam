@@ -2,7 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Application Usage Viewpoint: ComCare - Payroll Export"
-    id="a1d81498-8da9-44f1-a0b1-8c00953c02f3">
+    id="a1d81498-8da9-44f1-a0b1-8c00953c02f3"
+    documentation="by JS."
+    viewpoint="application_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f79bd315-d2dd-433b-8372-a8f97c04b00c">
