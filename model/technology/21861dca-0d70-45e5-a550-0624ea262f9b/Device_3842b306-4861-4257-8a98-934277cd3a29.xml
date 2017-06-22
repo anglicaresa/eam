@@ -1,0 +1,21 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SM-DW-SQL"
+    id="3842b306-4861-4257-8a98-934277cd3a29"
+    documentation="ASP.NET Integration App &#xD;&#xA;Integration Hub&#xD;&#xA;">
+  <properties
+      key="NAME"
+      value="SM-DW-SQL"/>
+  <properties
+      key="IP"
+      value="10.10.1.186"/>
+  <properties
+      key="CPU"
+      value="4"/>
+  <properties
+      key="RAM"
+      value="32GB"/>
+  <properties
+      key="DISK"
+      value="60GB?"/>
+</archimate:Device>

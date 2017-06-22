@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="0e7a521b-db9b-470e-b3ea-acb2228c9f7d"
+    documentation="ComCare is composed of Assessment Management">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_0230daa7-a470-49dc-b42b-86bc623ee0ce.xml#0230daa7-a470-49dc-b42b-86bc623ee0ce"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e694958b-63eb-4bb8-a24e-4c46483350fb.xml#e694958b-63eb-4bb8-a24e-4c46483350fb"/>
+</archimate:CompositionRelationship>

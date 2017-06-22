@@ -1,0 +1,21 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="T1C1-PROD1"
+    id="c7b7214e-a766-40c2-b6f6-49ad6a067e44"
+    documentation="Home Server&#xD;&#xA;N-tier Deployment Server&#xD;&#xA;">
+  <properties
+      key="CPU"
+      value="4"/>
+  <properties
+      key="RAM"
+      value="16GB"/>
+  <properties
+      key="DISK"
+      value="150GB"/>
+  <properties
+      key="IP"
+      value="10.10.1.127"/>
+  <properties
+      key="NAME"
+      value="T1C1-PROD1"/>
+</archimate:Device>

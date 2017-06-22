@@ -1,0 +1,21 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BILL:T1 PROD Home &amp; N-tier"
+    id="1fe02114-dec8-4849-9422-7cca431ab880"
+    documentation="Home Server&#xD;&#xA;N-tier Deployment Server&#xD;&#xA;">
+  <properties
+      key="CPU"
+      value="2"/>
+  <properties
+      key="RAM"
+      value="16GB"/>
+  <properties
+      key="DISK"
+      value="90GB"/>
+  <properties
+      key="IP"
+      value="10.10.1.113"/>
+  <properties
+      key="NAME"
+      value="BILL"/>
+</archimate:Device>
