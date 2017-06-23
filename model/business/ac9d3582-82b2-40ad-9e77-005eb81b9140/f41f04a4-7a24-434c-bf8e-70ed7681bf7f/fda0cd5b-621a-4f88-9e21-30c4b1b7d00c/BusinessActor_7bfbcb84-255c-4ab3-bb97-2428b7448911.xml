@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telstra Health"
+    id="7bfbcb84-255c-4ab3-bb97-2428b7448911">
+  <properties
+      key="stereotype"
+      value="vendor"/>
+</archimate:BusinessActor>

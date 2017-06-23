@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology One"
+    id="1d3df1b8-e89a-4f0e-beb6-115126a48f32">
+  <properties
+      key="stereotype"
+      value="vendor"/>
+</archimate:BusinessActor>

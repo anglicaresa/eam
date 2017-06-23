@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comunet"
+    id="9893f779-3f08-480f-b9cd-eab446b65791">
+  <properties
+      key="stereotype"
+      value="vendor"/>
+</archimate:BusinessActor>

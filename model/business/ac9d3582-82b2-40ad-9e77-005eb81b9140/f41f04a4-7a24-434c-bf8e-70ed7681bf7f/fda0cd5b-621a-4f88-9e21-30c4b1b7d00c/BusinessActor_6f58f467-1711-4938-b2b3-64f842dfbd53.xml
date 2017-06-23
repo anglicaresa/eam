@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Argsen"
+    id="6f58f467-1711-4938-b2b3-64f842dfbd53">
+  <properties
+      key="stereotype"
+      value="vendor"/>
+</archimate:BusinessActor>

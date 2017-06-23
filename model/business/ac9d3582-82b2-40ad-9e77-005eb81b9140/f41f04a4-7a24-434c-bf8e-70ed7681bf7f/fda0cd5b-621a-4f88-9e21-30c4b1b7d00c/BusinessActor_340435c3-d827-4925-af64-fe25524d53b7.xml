@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WFS"
+    id="340435c3-d827-4925-af64-fe25524d53b7">
+  <properties
+      key="stereotype"
+      value="vendor"/>
+</archimate:BusinessActor>
