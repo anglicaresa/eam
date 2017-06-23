@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="failure"
+    id="2afcd900-599a-414f-bff3-58c99cec229e">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_e402b7f0-b59b-4c1d-8466-7fd760d80ebe.xml#e402b7f0-b59b-4c1d-8466-7fd760d80ebe"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_d10e2080-0f02-4ebc-b40a-40d9a691c2c5.xml#d10e2080-0f02-4ebc-b40a-40d9a691c2c5"/>
+</archimate:TriggeringRelationship>

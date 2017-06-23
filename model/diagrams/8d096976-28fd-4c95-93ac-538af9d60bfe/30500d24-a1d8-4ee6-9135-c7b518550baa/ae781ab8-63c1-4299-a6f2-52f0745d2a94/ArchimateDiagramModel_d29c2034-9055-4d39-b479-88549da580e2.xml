@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Function Viewpoint: IT Projects"
+    id="d29c2034-9055-4d39-b479-88549da580e2">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="37c1ab66-a230-447e-a982-09ba2de4a1f8">
+    <bounds
+        x="161"
+        y="259"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_679a8492-feef-4d2d-9f9d-691c995d7daa.xml#679a8492-feef-4d2d-9f9d-691c995d7daa"/>
+  </children>
+</archimate:ArchimateDiagramModel>
