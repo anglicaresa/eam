@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ABN"
+    id="cdda83d6-f403-469f-9ac1-1895bb5c0e8a"
+    documentation="Used for checking ABN,ACN or name.&#xD;&#xA;Direct link to the GOV ABN Lookup function."/>

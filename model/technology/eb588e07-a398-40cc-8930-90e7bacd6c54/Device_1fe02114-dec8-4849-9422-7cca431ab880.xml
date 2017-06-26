@@ -18,4 +18,7 @@
   <properties
       key="NAME"
       value="BILL"/>
+  <properties
+      key="SYSTEM"
+      value="Win 2008 R2"/>
 </archimate:Device>

@@ -18,4 +18,7 @@
   <properties
       key="NAME"
       value="SPARKS"/>
+  <properties
+      key="SYSTEM"
+      value="Win 2008 R2"/>
 </archimate:Device>

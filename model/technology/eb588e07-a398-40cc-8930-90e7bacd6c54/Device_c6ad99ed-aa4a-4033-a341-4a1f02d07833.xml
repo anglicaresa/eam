@@ -18,4 +18,7 @@
   <properties
       key="NAME"
       value="T1C1-PROD2"/>
+  <properties
+      key="SYSTEM"
+      value="Win 2012 R2"/>
 </archimate:Device>
