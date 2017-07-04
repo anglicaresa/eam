@@ -1,4 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="EA Repository Website"
-    id="333ccbb0-a4fe-4112-96f1-89c1eb063cca"/>
+    id="333ccbb0-a4fe-4112-96f1-89c1eb063cca"
+    documentation="Based on MediaWiki which is a open source software.">
+  <properties
+      key="URL"
+      value="http://ea.anglicaresa.com.au"/>
+</archimate:ApplicationComponent>

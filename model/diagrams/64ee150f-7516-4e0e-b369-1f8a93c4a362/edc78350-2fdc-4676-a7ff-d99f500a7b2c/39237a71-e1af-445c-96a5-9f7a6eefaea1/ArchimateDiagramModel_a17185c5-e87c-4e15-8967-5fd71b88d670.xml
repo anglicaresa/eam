@@ -34,7 +34,7 @@
           href="CompositionRelationship_358bb76e-6a83-4337-89e7-21963436ee08.xml#358bb76e-6a83-4337-89e7-21963436ee08"/>
     </sourceConnections>
     <bounds
-        x="348"
+        x="336"
         y="240"
         width="577"
         height="337"/>
@@ -93,7 +93,7 @@
       </sourceConnections>
       <bounds
           x="204"
-          y="132"
+          y="228"
           width="120"
           height="55"/>
       <archimateElement
@@ -124,7 +124,7 @@
       </sourceConnections>
       <bounds
           x="204"
-          y="216"
+          y="144"
           width="120"
           height="55"/>
       <archimateElement
@@ -154,7 +154,7 @@
       targetConnections="225e65cf-9e6b-4854-8ee3-b16eef3e8ebd">
     <bounds
         x="174"
-        y="372"
+        y="468"
         width="120"
         height="55"/>
     <archimateElement
@@ -167,7 +167,7 @@
       targetConnections="b34b26f6-0f20-411e-9cf0-3af018064c3c">
     <bounds
         x="174"
-        y="456"
+        y="381"
         width="120"
         height="55"/>
     <archimateElement
@@ -192,8 +192,8 @@
       id="518f3c5e-91ee-430b-b528-014511c6f176"
       targetConnections="373de08a-a59b-487b-ae00-ec9f4afa6506">
     <bounds
-        x="990"
-        y="456"
+        x="989"
+        y="372"
         width="187"
         height="55"/>
     <archimateElement
@@ -206,7 +206,7 @@
       targetConnections="deeb6ab6-f13b-43e9-b266-5dcc247c73db">
     <bounds
         x="990"
-        y="380"
+        y="468"
         width="187"
         height="55"/>
     <archimateElement

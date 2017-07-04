@@ -1,4 +1,12 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Trello"
-    id="fb637395-fc6f-4669-962f-22b4db762a4e"/>
+    id="fb637395-fc6f-4669-962f-22b4db762a4e"
+    documentation="free project management tool.">
+  <properties
+      key="URL"
+      value="https://trello.com"/>
+  <properties
+      key="Board"
+      value="EA, Data Warehouse &amp; BI"/>
+</archimate:ApplicationComponent>

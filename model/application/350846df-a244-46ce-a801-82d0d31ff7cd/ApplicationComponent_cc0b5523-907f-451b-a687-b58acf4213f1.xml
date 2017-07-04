@@ -1,4 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Archi Model Website"
-    id="cc0b5523-907f-451b-a687-b58acf4213f1"/>
+    id="cc0b5523-907f-451b-a687-b58acf4213f1"
+    documentation="HTML files which are exported from Archi.">
+  <properties
+      key="url"
+      value="http://10.150.1.216:88/ or go through EA Repository link"/>
+</archimate:ApplicationComponent>
