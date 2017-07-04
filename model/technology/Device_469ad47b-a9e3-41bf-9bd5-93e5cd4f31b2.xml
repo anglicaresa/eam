@@ -1,0 +1,23 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWS-EAWEB01"
+    id="469ad47b-a9e3-41bf-9bd5-93e5cd4f31b2">
+  <properties
+      key="Hostname"
+      value="AWS-EAWEB01"/>
+  <properties
+      key="Instance Id"
+      value="i-01ff5852f772b2851"/>
+  <properties
+      key="IP"
+      value="10.150.1.216"/>
+  <properties
+      key="Instance Size"
+      value="t2.micro"/>
+  <properties
+      key="Architecture"
+      value="AMD64"/>
+  <properties
+      key="Memory"
+      value="1GB"/>
+</archimate:Device>
