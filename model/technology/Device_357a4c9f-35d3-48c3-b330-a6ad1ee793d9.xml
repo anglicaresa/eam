@@ -1,0 +1,24 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="T1C1-PROD2"
+    id="357a4c9f-35d3-48c3-b330-a6ad1ee793d9"
+    documentation="Home Server&#xD;&#xA;N-tier Deployment Server&#xD;&#xA;">
+  <properties
+      key="CPU"
+      value="4"/>
+  <properties
+      key="RAM"
+      value="16GB"/>
+  <properties
+      key="DISK"
+      value="150GB"/>
+  <properties
+      key="IP"
+      value="10.10.1.128"/>
+  <properties
+      key="NAME"
+      value="T1C1-PROD2"/>
+  <properties
+      key="SYSTEM"
+      value="Win 2012 R2"/>
+</archimate:Device>

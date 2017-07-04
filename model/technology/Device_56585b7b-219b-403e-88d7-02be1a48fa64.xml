@@ -1,0 +1,24 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APPSQL-4 Database Server"
+    id="56585b7b-219b-403e-88d7-02be1a48fa64"
+    documentation="Distributed Processor Server">
+  <properties
+      key="CPU"
+      value="4"/>
+  <properties
+      key="RAM"
+      value="8GB"/>
+  <properties
+      key="DISK"
+      value="90GB"/>
+  <properties
+      key="IP"
+      value="10.10.1.130"/>
+  <properties
+      key="NAME"
+      value="APPSQL-4"/>
+  <properties
+      key="SYSTEM"
+      value="Win 2012 R2"/>
+</archimate:Device>
