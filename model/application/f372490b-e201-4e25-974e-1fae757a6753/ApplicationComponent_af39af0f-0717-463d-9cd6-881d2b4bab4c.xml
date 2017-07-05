@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spiceworks"
+    id="af39af0f-0717-463d-9cd6-881d2b4bab4c"
+    documentation="IT support tickets management system.">
+  <properties
+      key="url"
+      value="http://itsupport.anglicaresa.com.au:8080/pro_users/login"/>
+</archimate:ApplicationComponent>

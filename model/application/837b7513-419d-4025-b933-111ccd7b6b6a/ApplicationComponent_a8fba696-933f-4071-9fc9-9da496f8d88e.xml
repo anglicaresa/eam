@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iCare"
+    id="a8fba696-933f-4071-9fc9-9da496f8d88e"
+    documentation="iCare Health system">
+  <properties
+      key="url"
+      value="http://icare-1/icare/"/>
+</archimate:ApplicationComponent>

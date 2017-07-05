@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Matrix"
+    id="d2c86c46-79a9-492b-9703-00823ebb83dd"
+    documentation="Sharepoint portal for AnglicareSA.">
+  <properties
+      key="url"
+      value="http://matrix2013/Pages/Home.aspx"/>
+</archimate:ApplicationComponent>

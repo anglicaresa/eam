@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Archi Model Website"
-    id="981b3182-e775-4ca9-8e06-098768c77094"
-    documentation="this is a website to host html files which are exported from Archi.">
-  <properties
-      key="URL"
-      value="http://ea.anglicaresa.com.au"/>
-</archimate:ApplicationComponent>
