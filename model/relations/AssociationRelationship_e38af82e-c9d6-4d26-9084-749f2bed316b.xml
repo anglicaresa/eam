@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SHDSL 5Mb"
+    id="e38af82e-c9d6-4d26-9084-749f2bed316b">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_cdb09209-9e26-41fe-91a6-fb20503fe7f3.xml#cdb09209-9e26-41fe-91a6-fb20503fe7f3"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_4d5f5c2d-17dd-408f-ab15-52f681fda806.xml#4d5f5c2d-17dd-408f-ab15-52f681fda806"/>
+</archimate:AssociationRelationship>

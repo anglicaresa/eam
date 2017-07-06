@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Backup Wireles Link"
+    id="11ce0d4e-a1a2-47cd-87bd-463b483601e6">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_15ff1456-bd18-4ca0-a4b5-f2c1fd26d558.xml#15ff1456-bd18-4ca0-a4b5-f2c1fd26d558"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_4d2c5d91-a6c9-4c6a-bc11-2ece5669fb08.xml#4d2c5d91-a6c9-4c6a-bc11-2ece5669fb08"/>
+</archimate:AssociationRelationship>

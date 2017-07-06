@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fibre"
+    id="cce3bf03-d67c-4733-a6a9-b0885736193a">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_4d2c5d91-a6c9-4c6a-bc11-2ece5669fb08.xml#4d2c5d91-a6c9-4c6a-bc11-2ece5669fb08"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_fcd0cbcf-467a-4b02-80a8-75891a7bbb1d.xml#fcd0cbcf-467a-4b02-80a8-75891a7bbb1d"/>
+</archimate:AssociationRelationship>
