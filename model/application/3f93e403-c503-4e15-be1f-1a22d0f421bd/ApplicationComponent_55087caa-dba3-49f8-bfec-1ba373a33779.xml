@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E3Learning"
+    id="55087caa-dba3-49f8-bfec-1ba373a33779"
+    documentation="online learning protal">
+  <properties
+      key="url"
+      value="http://anglicare.e3learning.com.au/"/>
+</archimate:ApplicationComponent>

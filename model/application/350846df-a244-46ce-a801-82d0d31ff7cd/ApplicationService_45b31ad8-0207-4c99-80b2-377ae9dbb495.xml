@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Repository Maintain Service"
-    id="45b31ad8-0207-4c99-80b2-377ae9dbb495"/>
+    id="45b31ad8-0207-4c99-80b2-377ae9dbb495"
+    documentation="Online repository for EA project."/>

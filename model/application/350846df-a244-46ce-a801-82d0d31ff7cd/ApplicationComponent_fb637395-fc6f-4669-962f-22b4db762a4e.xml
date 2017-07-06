@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Trello"
     id="fb637395-fc6f-4669-962f-22b4db762a4e"
-    documentation="free project management tool.">
+    documentation="Project management tool to control project process.">
   <properties
       key="URL"
       value="https://trello.com"/>
