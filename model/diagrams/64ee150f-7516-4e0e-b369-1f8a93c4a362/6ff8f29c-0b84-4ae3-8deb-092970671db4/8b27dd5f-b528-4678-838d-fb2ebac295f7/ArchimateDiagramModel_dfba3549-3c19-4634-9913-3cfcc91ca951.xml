@@ -36,7 +36,7 @@
     </sourceConnections>
     <bounds
         x="84"
-        y="36"
+        y="120"
         width="301"
         height="325"/>
     <children
@@ -114,7 +114,7 @@
     </sourceConnections>
     <bounds
         x="636"
-        y="156"
+        y="240"
         width="217"
         height="133"/>
     <children
@@ -140,7 +140,7 @@
       targetConnections="4c01cf71-908e-44aa-bd1e-4287c66509ac">
     <bounds
         x="636"
-        y="72"
+        y="156"
         width="217"
         height="55"/>
     <archimateElement
@@ -179,7 +179,7 @@
     </sourceConnections>
     <bounds
         x="456"
-        y="72"
+        y="156"
         width="120"
         height="55"/>
     <archimateElement
