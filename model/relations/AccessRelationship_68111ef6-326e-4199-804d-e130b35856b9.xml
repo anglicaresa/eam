@@ -1,12 +1,11 @@
-<archimate:FlowRelationship
+<archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Comcare  data"
-    id="aa9f22a6-667a-44c2-9b15-834723cdd9fc">
+    id="68111ef6-326e-4199-804d-e130b35856b9">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_0230daa7-a470-49dc-b42b-86bc623ee0ce.xml#0230daa7-a470-49dc-b42b-86bc623ee0ce"/>
   <target
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_e975afbb-79b9-493d-8e57-41c5ffcdad7c.xml#e975afbb-79b9-493d-8e57-41c5ffcdad7c"/>
-</archimate:FlowRelationship>
+      xsi:type="archimate:DataObject"
+      href="DataObject_eeedbb67-64fc-4de1-a8fb-409f4986413a.xml#eeedbb67-64fc-4de1-a8fb-409f4986413a"/>
+</archimate:AccessRelationship>

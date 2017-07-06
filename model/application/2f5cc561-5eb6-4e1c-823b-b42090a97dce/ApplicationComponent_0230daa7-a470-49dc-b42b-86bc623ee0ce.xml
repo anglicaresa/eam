@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Comcare"
-    id="0230daa7-a470-49dc-b42b-86bc623ee0ce"/>
+    id="0230daa7-a470-49dc-b42b-86bc623ee0ce"
+    documentation="Client management system."/>

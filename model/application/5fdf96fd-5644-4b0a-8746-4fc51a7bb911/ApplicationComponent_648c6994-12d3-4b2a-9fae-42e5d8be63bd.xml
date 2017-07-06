@@ -1,4 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CIM"
-    id="648c6994-12d3-4b2a-9fae-42e5d8be63bd"/>
+    id="648c6994-12d3-4b2a-9fae-42e5d8be63bd"
+    documentation="Legacy finance &amp; HR system.">
+  <properties
+      key="application model"
+      value="c/s"/>
+</archimate:ApplicationComponent>

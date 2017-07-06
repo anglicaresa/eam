@@ -1,4 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="TechOne"
-    id="4b3018cf-33c4-439f-a095-0305cb9c9119"/>
+    id="4b3018cf-33c4-439f-a095-0305cb9c9119"
+    documentation="Finance, HR &amp; Payroll, Supply Chain &amp; Contract management, Assest management, budgeting, etc.">
+  <properties
+      key="application model"
+      value="c/s"/>
+</archimate:ApplicationComponent>
