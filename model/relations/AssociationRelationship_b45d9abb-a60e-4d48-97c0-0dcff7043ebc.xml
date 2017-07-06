@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wireless Bridge"
+    id="b45d9abb-a60e-4d48-97c0-0dcff7043ebc">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_0472b905-5635-4500-935c-d463b4e624b1.xml#0472b905-5635-4500-935c-d463b4e624b1"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_15ff1456-bd18-4ca0-a4b5-f2c1fd26d558.xml#15ff1456-bd18-4ca0-a4b5-f2c1fd26d558"/>
+</archimate:AssociationRelationship>

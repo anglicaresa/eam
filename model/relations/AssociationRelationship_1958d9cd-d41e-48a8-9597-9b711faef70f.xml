@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NBN 24/5Mb"
+    id="1958d9cd-d41e-48a8-9597-9b711faef70f">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_4d5f5c2d-17dd-408f-ab15-52f681fda806.xml#4d5f5c2d-17dd-408f-ab15-52f681fda806"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_e752fa94-5c3d-4985-90f5-1e24882528ed.xml#e752fa94-5c3d-4985-90f5-1e24882528ed"/>
+</archimate:AssociationRelationship>

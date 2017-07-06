@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fibre 10Mbps"
+    id="ee9afbcd-01d0-4f61-9186-87bb6f09d69e">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_b054c009-009a-4c77-b180-9443e6458091.xml#b054c009-009a-4c77-b180-9443e6458091"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_43963a49-4a81-4892-9b86-d98a73e7d274.xml#43963a49-4a81-4892-9b86-d98a73e7d274"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VPN"
+    id="8294f2c7-6ebe-4316-951d-798be60f32a4">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_f00d4373-d26c-4803-90fa-90fa224b03be.xml#f00d4373-d26c-4803-90fa-90fa224b03be"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_cc01b795-2a73-474e-878c-7d323e8fdef5.xml#cc01b795-2a73-474e-878c-7d323e8fdef5"/>
+</archimate:AssociationRelationship>

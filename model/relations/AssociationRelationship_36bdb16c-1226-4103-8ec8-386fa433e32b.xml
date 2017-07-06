@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fibre 1Gbit"
+    id="36bdb16c-1226-4103-8ec8-386fa433e32b">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_84770fef-221c-46b8-8c45-d765a30d9153.xml#84770fef-221c-46b8-8c45-d765a30d9153"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_f70a35b7-b52c-4555-87af-2254eb1f2a4f.xml#f70a35b7-b52c-4555-87af-2254eb1f2a4f"/>
+</archimate:AssociationRelationship>

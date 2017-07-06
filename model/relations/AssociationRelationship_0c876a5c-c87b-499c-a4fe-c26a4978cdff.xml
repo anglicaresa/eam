@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4G Telstra"
+    id="0c876a5c-c87b-499c-a4fe-c26a4978cdff">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_4d5f5c2d-17dd-408f-ab15-52f681fda806.xml#4d5f5c2d-17dd-408f-ab15-52f681fda806"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_c8586e99-7a48-48c5-a91f-b269576e8d43.xml#c8586e99-7a48-48c5-a91f-b269576e8d43"/>
+</archimate:AssociationRelationship>
