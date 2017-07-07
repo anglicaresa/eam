@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Slack"
+    id="e5559a82-f4ed-43c9-be87-0730d6b58d18"
+    documentation="Team communication tool.">
+  <properties
+      key="url"
+      value="https://slack.com/"/>
+</archimate:ApplicationComponent>

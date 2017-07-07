@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="EA Repository Website"
     id="333ccbb0-a4fe-4112-96f1-89c1eb063cca"
-    documentation="Based on MediaWiki which is a open source software.">
+    documentation="The architecture repository is built with MediaWiki 1.28.2.&#xD;&#xA;This enables the architecture to be built reasonable quickly in a collaborative manner. It also allows the architecture to be shared and viewed easily by stakeholders around the organisation">
   <properties
       key="URL"
       value="http://ea.anglicaresa.com.au"/>

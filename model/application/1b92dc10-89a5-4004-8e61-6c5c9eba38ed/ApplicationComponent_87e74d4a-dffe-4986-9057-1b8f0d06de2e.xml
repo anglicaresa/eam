@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JIRA"
+    id="87e74d4a-dffe-4986-9057-1b8f0d06de2e"
+    documentation="project management tool&#xD;&#xA;">
+  <properties
+      key="url"
+      value="https://www.atlassian.com"/>
+</archimate:ApplicationComponent>

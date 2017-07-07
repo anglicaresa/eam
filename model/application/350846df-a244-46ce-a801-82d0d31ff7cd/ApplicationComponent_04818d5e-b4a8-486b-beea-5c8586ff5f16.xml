@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Github"
+    id="04818d5e-b4a8-486b-beea-5c8586ff5f16"
+    documentation="software source code and version control system.&#xD;&#xA;">
+  <properties
+      key="url"
+      value="https://github.com/anglicaresa/eam"/>
+</archimate:ApplicationComponent>

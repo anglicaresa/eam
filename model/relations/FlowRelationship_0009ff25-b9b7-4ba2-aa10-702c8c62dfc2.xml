@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mode Files"
+    id="0009ff25-b9b7-4ba2-aa10-702c8c62dfc2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_abc8cd3d-1cc0-4838-9cc1-8ff66cdb79c2.xml#abc8cd3d-1cc0-4838-9cc1-8ff66cdb79c2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_04818d5e-b4a8-486b-beea-5c8586ff5f16.xml#04818d5e-b4a8-486b-beea-5c8586ff5f16"/>
+</archimate:FlowRelationship>

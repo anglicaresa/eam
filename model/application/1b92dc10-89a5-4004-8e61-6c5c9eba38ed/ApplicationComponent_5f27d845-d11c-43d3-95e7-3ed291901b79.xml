@@ -1,4 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Phone"
-    id="5f27d845-d11c-43d3-95e7-3ed291901b79"/>
+    name="Phone Console application"
+    id="5f27d845-d11c-43d3-95e7-3ed291901b79"
+    documentation="HiPath 3000 Manager ">
+  <properties
+      key="application model"
+      value="c/s"/>
+</archimate:ApplicationComponent>
