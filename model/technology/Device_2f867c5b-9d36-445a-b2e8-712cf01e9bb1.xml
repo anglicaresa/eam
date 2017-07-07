@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Andrew"
+    id="2f867c5b-9d36-445a-b2e8-712cf01e9bb1">
+  <properties
+      key="Hoted Location"
+      value="Andrew - Phillip Highway"/>
+  <properties
+      key="IP"
+      value="10.10.22.10"/>
+  <properties
+      key="Type"
+      value="Physical"/>
+  <properties
+      key="Role"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+</archimate:Device>
