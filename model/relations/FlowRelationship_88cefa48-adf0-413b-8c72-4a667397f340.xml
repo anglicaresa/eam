@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Timesheet &amp; leave"
+    name="Original timesheet data"
     id="88cefa48-adf0-413b-8c72-4a667397f340">
   <source
       xsi:type="archimate:ApplicationComponent"

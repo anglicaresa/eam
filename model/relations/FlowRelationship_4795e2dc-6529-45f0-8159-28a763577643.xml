@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Incidents"
+    name="Incidents Data"
     id="4795e2dc-6529-45f0-8159-28a763577643">
   <source
       xsi:type="archimate:ApplicationComponent"

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Donation data"
+    id="1e26002a-6905-4483-b88d-68a5409428b3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_dbf197dc-f7e2-4aac-b3cd-8a569114f629.xml#dbf197dc-f7e2-4aac-b3cd-8a569114f629"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_4b3018cf-33c4-439f-a095-0305cb9c9119.xml#4b3018cf-33c4-439f-a095-0305cb9c9119"/>
+</archimate:FlowRelationship>

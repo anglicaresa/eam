@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fibre 20Mb"
+    id="10e60ae1-297c-47a8-b607-dab7617ec66a">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_f00d4373-d26c-4803-90fa-90fa224b03be.xml#f00d4373-d26c-4803-90fa-90fa224b03be"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_4d5f5c2d-17dd-408f-ab15-52f681fda806.xml#4d5f5c2d-17dd-408f-ab15-52f681fda806"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Backup Wireless Link"
+    id="d60d5f61-9d88-4b3d-a3cd-498a7f6b1971">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_15ff1456-bd18-4ca0-a4b5-f2c1fd26d558.xml#15ff1456-bd18-4ca0-a4b5-f2c1fd26d558"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_f70a35b7-b52c-4555-87af-2254eb1f2a4f.xml#f70a35b7-b52c-4555-87af-2254eb1f2a4f"/>
+</archimate:AssociationRelationship>

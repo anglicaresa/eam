@@ -1,4 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Riskman"
-    id="b3eac09f-c7f9-4326-93c4-ec1827c90159"/>
+    id="b3eac09f-c7f9-4326-93c4-ec1827c90159"
+    documentation="Incident and Feedback reporting system.">
+  <properties
+      key="url"
+      value="http://riskman/RiskMan/Default.aspx?"/>
+</archimate:ApplicationComponent>

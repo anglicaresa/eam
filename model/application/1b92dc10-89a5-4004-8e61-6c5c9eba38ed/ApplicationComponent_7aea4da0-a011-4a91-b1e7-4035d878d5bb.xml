@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Active Directory"
+    id="7aea4da0-a011-4a91-b1e7-4035d878d5bb"
+    documentation="Directory service that Microsoft developed for Windows domain networks"/>
