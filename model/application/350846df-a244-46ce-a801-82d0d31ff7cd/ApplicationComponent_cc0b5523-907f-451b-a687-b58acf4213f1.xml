@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Archimate Website"
     id="cc0b5523-907f-451b-a687-b58acf4213f1"
-    documentation="HTML files which are exported from Archi which is integrated in EA Repository.">
+    documentation="Web hosting service. &#xD;&#xA;HTML files which are exported from Archi which is integrated in EA Repository.">
   <properties
       key="url"
       value="http://10.150.1.216:88/ or go through EA Repository link"/>
