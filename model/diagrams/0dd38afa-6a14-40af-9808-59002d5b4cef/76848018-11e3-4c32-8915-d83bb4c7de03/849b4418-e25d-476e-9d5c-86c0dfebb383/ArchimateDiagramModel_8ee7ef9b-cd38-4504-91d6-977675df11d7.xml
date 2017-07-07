@@ -1,12 +1,12 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Cooperation Viewpoint: DWH (future)"
+    name="Application Cooperation Viewpoint: DWH (target)"
     id="8ee7ef9b-cd38-4504-91d6-977675df11d7">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4c2d5f6b-6c9b-4574-8713-ca7300c58e13"
-      targetConnections="4434fee7-f044-4825-8c37-da5fe81cf9d0 fa1f7928-9baf-49c5-9635-589be0af54f8 d48c8cc9-486a-48af-b8ab-184b08f643e3 254bed0c-af89-4663-a1db-11bc817d9d26 0283f04a-5d2b-4de6-9477-e9567eb1932a"
+      targetConnections="4434fee7-f044-4825-8c37-da5fe81cf9d0 fa1f7928-9baf-49c5-9635-589be0af54f8 d48c8cc9-486a-48af-b8ab-184b08f643e3 254bed0c-af89-4663-a1db-11bc817d9d26 0283f04a-5d2b-4de6-9477-e9567eb1932a deb2f25b-782f-46cc-b8b1-8135e87663b4"
       fillColor="#cae4ff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -442,5 +442,27 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_42fba651-f00f-488f-acfc-793376d50eb9.xml#42fba651-f00f-488f-acfc-793376d50eb9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="bb57c8ba-031b-4622-9e41-e60795d38c3e"
+      fillColor="#ff8000">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="deb2f25b-782f-46cc-b8b1-8135e87663b4"
+        source="bb57c8ba-031b-4622-9e41-e60795d38c3e"
+        target="4c2d5f6b-6c9b-4574-8713-ca7300c58e13">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_86aa34da-f1b0-40f5-9f45-371777fc42ec.xml#86aa34da-f1b0-40f5-9f45-371777fc42ec"/>
+    </sourceConnections>
+    <bounds
+        x="96"
+        y="564"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_52191812-3250-40a3-8538-a136d4166bf3.xml#52191812-3250-40a3-8538-a136d4166bf3"/>
   </children>
 </archimate:ArchimateDiagramModel>
