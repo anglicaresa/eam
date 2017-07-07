@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SM-DC01"
+    id="a872ddb6-8c15-4679-9e61-25d527c9970a">
+  <properties
+      key="Hoted Location"
+      value="SM-DC01 - St Mary's"/>
+  <properties
+      key="IP"
+      value="10.10.35.10"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+</archimate:Device>

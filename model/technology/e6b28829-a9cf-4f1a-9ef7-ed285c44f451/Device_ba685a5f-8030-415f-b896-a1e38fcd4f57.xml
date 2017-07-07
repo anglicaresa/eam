@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EM-DC01"
+    id="ba685a5f-8030-415f-b896-a1e38fcd4f57">
+  <properties
+      key="Hoted Location"
+      value="EM-DC01 - Elizabeth Mission"/>
+  <properties
+      key="IP"
+      value="10.10.19.10"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+</archimate:Device>

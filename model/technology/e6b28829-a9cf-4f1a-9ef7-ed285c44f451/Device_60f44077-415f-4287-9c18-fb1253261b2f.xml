@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DS-DC01"
+    id="60f44077-415f-4287-9c18-fb1253261b2f">
+  <properties
+      key="Hoted Location"
+      value="DS-DC01 - Daphne Street"/>
+  <properties
+      key="IP"
+      value="10.10.15.10"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+</archimate:Device>

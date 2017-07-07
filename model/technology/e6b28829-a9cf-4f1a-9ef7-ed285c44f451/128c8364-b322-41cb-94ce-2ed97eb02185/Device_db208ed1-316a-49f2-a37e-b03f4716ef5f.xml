@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2012R2CLSTR-C"
+    id="db208ed1-316a-49f2-a37e-b03f4716ef5f">
+  <properties
+      key="Hoted Location"
+      value="Blade Chassis - Western Hub"/>
+  <properties
+      key="IP"
+      value="10.10.1.200"/>
+  <properties
+      key="Role"
+      value="Physical (Blade)"/>
+  <properties
+      key="Type"
+      value="Hyper V Host - MS Server 2012 R2 Datacentre"/>
+</archimate:Device>

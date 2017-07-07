@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VEEAMHOST1"
+    id="0210d4ae-6a20-4f8a-8470-118aea35610b">
+  <properties
+      key="Hoted Location"
+      value="VEEAM host - WH"/>
+  <properties
+      key="IP"
+      value="10.10.1.38"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"
+      value="Veeam Backup"/>
+</archimate:Device>

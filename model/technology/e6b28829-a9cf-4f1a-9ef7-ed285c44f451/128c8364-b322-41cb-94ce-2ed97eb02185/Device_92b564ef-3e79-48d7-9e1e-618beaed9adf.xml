@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VDIC2012R2-C"
+    id="92b564ef-3e79-48d7-9e1e-618beaed9adf">
+  <properties
+      key="Hoted Location"
+      value="Blade Chassis - Western Hub"/>
+  <properties
+      key="IP"
+      value="10.10.1.226"/>
+  <properties
+      key="Role"
+      value="Physical (Blade)"/>
+  <properties
+      key="Type"
+      value="Hyper V Host - MS Server 2012 R2 Datacentre"/>
+</archimate:Device>

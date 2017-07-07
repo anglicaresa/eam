@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CC-DC01"
+    id="75716dd0-ee79-4182-a8d7-6660a957ceb7">
+  <properties
+      key="Hoted Location"
+      value="CC-DC01 - Canterbury Close"/>
+  <properties
+      key="IP"
+      value="10.10.18.10"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+</archimate:Device>

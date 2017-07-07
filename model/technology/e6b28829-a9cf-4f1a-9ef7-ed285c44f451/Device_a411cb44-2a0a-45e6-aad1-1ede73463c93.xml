@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EV-DC01"
+    id="a411cb44-2a0a-45e6-aad1-1ede73463c93">
+  <properties
+      key="Hoted Location"
+      value="EV-DC01 - Evolution"/>
+  <properties
+      key="IP"
+      value="10.10.32.10"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+</archimate:Device>

@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DC-DC01"
+    id="ead224dc-b12b-487c-b2b7-e0a9a264b5d0">
+  <properties
+      key="Hoted Location"
+      value="DC-DC01 - Dutton Court"/>
+  <properties
+      key="IP"
+      value="10.10.20.10"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+</archimate:Device>

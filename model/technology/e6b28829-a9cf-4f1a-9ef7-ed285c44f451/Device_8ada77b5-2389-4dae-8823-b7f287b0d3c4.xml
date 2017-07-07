@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SL-DC01"
+    id="8ada77b5-2389-4dae-8823-b7f287b0d3c4">
+  <properties
+      key="Hoted Location"
+      value="SL-DC01 - St Laurance"/>
+  <properties
+      key="IP"
+      value="10.10.13.10"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+</archimate:Device>

@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OSH-DC01"
+    id="b0c9add7-0959-4dfe-baf7-337045c7a33f">
+  <properties
+      key="Hoted Location"
+      value="OSH-DC01 - Outer Southern Hub"/>
+  <properties
+      key="IP"
+      value="10.101.0.10"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+</archimate:Device>

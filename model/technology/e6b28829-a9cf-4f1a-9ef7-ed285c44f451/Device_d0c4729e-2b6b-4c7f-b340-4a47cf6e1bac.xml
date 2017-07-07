@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WC-DC01"
+    id="d0c4729e-2b6b-4c7f-b340-4a47cf6e1bac">
+  <properties
+      key="Hoted Location"
+      value="WC-DC01 - Waslea"/>
+  <properties
+      key="IP"
+      value="10.10.33.10"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+</archimate:Device>

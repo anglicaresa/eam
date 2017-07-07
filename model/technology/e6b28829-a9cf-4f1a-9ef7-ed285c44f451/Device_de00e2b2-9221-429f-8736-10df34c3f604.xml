@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-DC01"
+    id="de00e2b2-9221-429f-8736-10df34c3f604">
+  <properties
+      key="Hoted Location"
+      value="SA-DC01 - Old Rectory and Church St (Salisbury)"/>
+  <properties
+      key="IP"
+      value="10.105.0.10"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+</archimate:Device>

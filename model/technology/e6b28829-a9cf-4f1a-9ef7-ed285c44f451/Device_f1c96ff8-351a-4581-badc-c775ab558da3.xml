@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MC-DC01"
+    id="f1c96ff8-351a-4581-badc-c775ab558da3">
+  <properties
+      key="Hoted Location"
+      value="MC-DC01 - St Lukes"/>
+  <properties
+      key="IP"
+      value="10.10.10.10"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+</archimate:Device>

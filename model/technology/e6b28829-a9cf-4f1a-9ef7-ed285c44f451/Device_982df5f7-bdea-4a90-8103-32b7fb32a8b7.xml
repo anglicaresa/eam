@@ -1,0 +1,16 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DRHOST03"
+    id="982df5f7-bdea-4a90-8103-32b7fb32a8b7">
+  <properties
+      key="Hoted Location"
+      value="DR SERVER - All Hallows"/>
+  <properties
+      key="IP"
+      value="10.10.27.35"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"/>
+</archimate:Device>
