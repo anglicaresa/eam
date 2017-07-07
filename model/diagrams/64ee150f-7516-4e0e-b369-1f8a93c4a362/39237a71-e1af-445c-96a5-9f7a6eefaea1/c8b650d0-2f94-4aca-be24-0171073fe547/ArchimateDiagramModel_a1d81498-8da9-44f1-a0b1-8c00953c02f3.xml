@@ -119,7 +119,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="7131d134-aa05-4a87-891b-e69c88b11611"
-        targetConnections="7acff063-df2c-493f-8d0f-c654838063ca 1ed555e0-7ff8-4f26-8760-9a44695a1b76 f4e4a515-0a25-440f-911b-c1f6e8a569dd">
+        targetConnections="7acff063-df2c-493f-8d0f-c654838063ca 1ed555e0-7ff8-4f26-8760-9a44695a1b76 57e8ace9-05b5-40f7-a0c5-49e96ec6361b">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="91542e6f-c053-4316-a547-5db1a7d895e0"
@@ -141,7 +141,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="6713694f-c5bd-4ece-8d50-e20b544d831c"
-        targetConnections="91542e6f-c053-4316-a547-5db1a7d895e0 c034dfcd-9173-420f-a958-07c2c98b12be 26c395d7-1c00-478a-823c-5f630a2c7e4a">
+        targetConnections="91542e6f-c053-4316-a547-5db1a7d895e0 c034dfcd-9173-420f-a958-07c2c98b12be fcca6bfa-6543-4b0f-b4df-0c84b1ade18e">
       <bounds
           x="360"
           y="24"
@@ -154,7 +154,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b81c4906-042b-4c55-91f3-c6b830f46da4"
-        targetConnections="8d4f365f-da3e-412c-a50f-514b2a4eafff 58c668bb-05ca-4d84-b743-5ff39a7d548f">
+        targetConnections="8d4f365f-da3e-412c-a50f-514b2a4eafff f73788ba-3e89-42a8-9be5-989331a43211">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="1ed555e0-7ff8-4f26-8760-9a44695a1b76"
@@ -183,21 +183,21 @@
       targetConnections="4fdd4f4f-764c-4573-8323-e396b2cd7bce">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="58c668bb-05ca-4d84-b743-5ff39a7d548f"
-        source="cdc6c1df-ef93-48e9-a1d0-a82afd93b0ff"
-        target="b81c4906-042b-4c55-91f3-c6b830f46da4">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_055f5fc5-dad5-40bd-9e22-2397e32a4139.xml#055f5fc5-dad5-40bd-9e22-2397e32a4139"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="f4e4a515-0a25-440f-911b-c1f6e8a569dd"
+        id="57e8ace9-05b5-40f7-a0c5-49e96ec6361b"
         source="cdc6c1df-ef93-48e9-a1d0-a82afd93b0ff"
         target="7131d134-aa05-4a87-891b-e69c88b11611">
       <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_635fb283-c51c-4685-bd5b-5a8232d4f06c.xml#635fb283-c51c-4685-bd5b-5a8232d4f06c"/>
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_ea6f6816-8474-4d76-92e7-47b22adcba39.xml#ea6f6816-8474-4d76-92e7-47b22adcba39"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="f73788ba-3e89-42a8-9be5-989331a43211"
+        source="cdc6c1df-ef93-48e9-a1d0-a82afd93b0ff"
+        target="b81c4906-042b-4c55-91f3-c6b830f46da4">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_b62c4ff7-c127-4f56-9feb-4449cbd8cf4b.xml#b62c4ff7-c127-4f56-9feb-4449cbd8cf4b"/>
     </sourceConnections>
     <bounds
         x="432"
@@ -214,12 +214,12 @@
       targetConnections="e68ca390-9987-4bd8-82c3-fd9d7b22ec1c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="26c395d7-1c00-478a-823c-5f630a2c7e4a"
+        id="fcca6bfa-6543-4b0f-b4df-0c84b1ade18e"
         source="232c2ffc-3105-475d-9193-8f0ae7402c35"
         target="6713694f-c5bd-4ece-8d50-e20b544d831c">
       <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_2f6e83f5-da43-4e0d-a3bf-24fbc30466a0.xml#2f6e83f5-da43-4e0d-a3bf-24fbc30466a0"/>
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_133f4f51-8cb6-4c32-974c-27bccb7744e9.xml#133f4f51-8cb6-4c32-974c-27bccb7744e9"/>
     </sourceConnections>
     <bounds
         x="565"
