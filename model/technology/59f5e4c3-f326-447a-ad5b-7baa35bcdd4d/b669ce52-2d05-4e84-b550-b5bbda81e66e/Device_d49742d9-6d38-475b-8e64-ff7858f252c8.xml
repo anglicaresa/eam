@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auton"
+    id="d49742d9-6d38-475b-8e64-ff7858f252c8">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.174"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="SharePoint 2013 WebApps"/>
+  <properties
+      key="CPUCount"
+      value="1"/>
+  <properties
+      key="Memory"
+      value="10240"/>
+  <properties
+      key="TotalSize"
+      value="53691285504"/>
+  <properties
+      key="OperatingSystem"
+      value="64-bit edition of Windows Server 2012 Standard"/>
+</archimate:Device>

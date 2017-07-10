@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iCare-1"
+    id="94b67cd9-4d33-4b41-92cf-6fc848ba05a0">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.34"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="iCare Application - Web Server"/>
+  <properties
+      key="CPUCount"
+      value="4"/>
+  <properties
+      key="Memory"
+      value="4096"/>
+  <properties
+      key="TotalSize"
+      value="268443844608"/>
+  <properties
+      key="OperatingSystem"
+      value="64-bit edition of Windows Server 2008 R2 Standard"/>
+</archimate:Device>

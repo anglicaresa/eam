@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS-DC01"
+    id="ef1b6237-0ec1-4e0b-a59a-fae2816155f9">
+  <properties
+      key="Hoted Location"
+      value="MS-DC01 - Magdeline Centre"/>
+  <properties
+      key="IP"
+      value="10.10.11.10"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+</archimate:Device>

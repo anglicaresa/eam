@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Viki"
+    id="7ca06dcd-7899-4c74-b02e-b30ed65bf7d0">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.31"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="SQL Server"/>
+  <properties
+      key="CPUCount"
+      value="2"/>
+  <properties
+      key="Memory"
+      value="12288"/>
+  <properties
+      key="TotalSize"
+      value="332858333696"/>
+  <properties
+      key="OperatingSystem"
+      value="64-bit edition of Windows Server 2008 R2 Standard"/>
+</archimate:Device>

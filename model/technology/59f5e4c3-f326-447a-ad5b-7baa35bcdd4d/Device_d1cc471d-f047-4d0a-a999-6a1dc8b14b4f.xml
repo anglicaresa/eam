@@ -1,0 +1,25 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marvin"
+    id="d1cc471d-f047-4d0a-a999-6a1dc8b14b4f">
+  <properties
+      key="Hosted Location"
+      value="Vmware Blade (VMWARE-H01)"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.19"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="CIM / FAMCOM Data-application server"/>
+  <properties
+      key="CPUCount"/>
+  <properties
+      key="Memory"/>
+  <properties
+      key="TotalSize"/>
+  <properties
+      key="OperatingSystem"/>
+</archimate:Device>

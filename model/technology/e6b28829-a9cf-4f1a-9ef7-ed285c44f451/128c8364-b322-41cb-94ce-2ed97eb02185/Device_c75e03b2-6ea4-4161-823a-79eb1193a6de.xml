@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VMWare-H01"
+    id="c75e03b2-6ea4-4161-823a-79eb1193a6de">
+  <properties
+      key="Hoted Location"
+      value="Blade Chassis - Western Hub"/>
+  <properties
+      key="IP"
+      value="10.10.1.61"/>
+  <properties
+      key="Role"
+      value="Physical (Blade)"/>
+  <properties
+      key="Type"
+      value="Vmware vSphere Host"/>
+</archimate:Device>

@@ -1,0 +1,25 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="T1PROD-DP1"
+    id="02c1982c-606d-4120-b1bf-a7de0c2649a3">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.28"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="TechOne - PROD - DP server"/>
+  <properties
+      key="CPUCount"/>
+  <properties
+      key="Memory"/>
+  <properties
+      key="TotalSize"/>
+  <properties
+      key="OperatingSystem"/>
+</archimate:Device>

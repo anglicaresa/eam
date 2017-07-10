@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HH-DC01"
+    id="739ab9e0-cfe4-4e21-b637-faa8ad5efc45">
+  <properties
+      key="Hoted Location"
+      value="HH-DC01- Holden Hill"/>
+  <properties
+      key="IP"
+      value="10.10.40.10"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+</archimate:Device>

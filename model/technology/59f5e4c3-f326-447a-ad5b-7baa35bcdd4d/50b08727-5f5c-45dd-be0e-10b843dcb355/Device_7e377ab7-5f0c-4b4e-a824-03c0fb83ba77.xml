@@ -1,0 +1,25 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="XA-C1-04"
+    id="7e377ab7-5f0c-4b4e-a824-03c0fb83ba77">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - VDI2012R2-CLSTR"/>
+  <properties
+      key="IP Address"
+      value="DHCP"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="XenApp Application Server - Default Group"/>
+  <properties
+      key="CPUCount"/>
+  <properties
+      key="Memory"/>
+  <properties
+      key="TotalSize"/>
+  <properties
+      key="OperatingSystem"/>
+</archimate:Device>

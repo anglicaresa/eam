@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SH-DC01"
+    id="dcf6df6d-d5a7-4d21-b473-061008fce399">
+  <properties
+      key="Hoted Location"
+      value="SH-DC01 - Southern Hub"/>
+  <properties
+      key="IP"
+      value="10.102.0.10"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+</archimate:Device>

@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GC-DC01"
+    id="7c4b8ead-3d8b-418d-b3a9-e81b312e3d6a">
+  <properties
+      key="Hoted Location"
+      value="GC-DC01 - Grandview Court"/>
+  <properties
+      key="IP"
+      value="10.10.37.10"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+</archimate:Device>

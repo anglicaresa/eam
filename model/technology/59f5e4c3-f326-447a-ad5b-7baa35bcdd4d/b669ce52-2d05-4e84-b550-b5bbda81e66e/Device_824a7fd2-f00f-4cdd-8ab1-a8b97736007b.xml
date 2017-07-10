@@ -1,0 +1,28 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gadget"
+    id="824a7fd2-f00f-4cdd-8ab1-a8b97736007b">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.25"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"/>
+  <properties
+      key="CPUCount"
+      value="1"/>
+  <properties
+      key="Memory"
+      value="1024"/>
+  <properties
+      key="TotalSize"
+      value="29046433280"/>
+  <properties
+      key="OperatingSystem"
+      value="Windows Server 2003 Standard Edition (32-bit x86)"/>
+</archimate:Device>

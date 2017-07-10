@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Joshua (Decommission)"
+    id="1d1d0e9a-bdf9-4d6a-8927-9ab4246392e0">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.37"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="Need to confirm status - Xerox"/>
+  <properties
+      key="CPUCount"
+      value="1"/>
+  <properties
+      key="Memory"
+      value="512"/>
+  <properties
+      key="TotalSize"
+      value="32583440384"/>
+  <properties
+      key="OperatingSystem"
+      value="64-bit edition of Windows Server 2008 R2 Standard"/>
+</archimate:Device>

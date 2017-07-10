@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mike"
+    id="90d97a69-c162-474c-abec-518948f8b927">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.18"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="SCCM"/>
+  <properties
+      key="CPUCount"
+      value="2"/>
+  <properties
+      key="Memory"
+      value="8192"/>
+  <properties
+      key="TotalSize"
+      value="256628490240"/>
+  <properties
+      key="OperatingSystem"
+      value="64-bit edition of Windows Server 2008 R2 Standard"/>
+</archimate:Device>

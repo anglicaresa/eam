@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Burne"
+    id="8f3924fd-2863-4a4a-a9bf-74f9a0905180">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.68"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="SCCM Deployment Point Server (WSUS Removed)"/>
+  <properties
+      key="CPUCount"
+      value="2"/>
+  <properties
+      key="Memory"
+      value="6144"/>
+  <properties
+      key="TotalSize"
+      value="331324850176"/>
+  <properties
+      key="OperatingSystem"
+      value="64-bit edition of Windows Server 2008 R2 Standard"/>
+</archimate:Device>

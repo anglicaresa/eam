@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CDES-01"
+    id="066355cb-019c-4a95-8683-de937a45e345">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - VDI2012R2-CLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.221"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="Police Check Application"/>
+  <properties
+      key="CPUCount"
+      value="1"/>
+  <properties
+      key="Memory"
+      value="4096"/>
+  <properties
+      key="TotalSize"
+      value="32149340160"/>
+  <properties
+      key="OperatingSystem"
+      value="Windows Server 2012 R2 Standard"/>
+</archimate:Device>

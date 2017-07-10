@@ -1,0 +1,25 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRTGPROBE1"
+    id="f4f87b2f-d7e2-429b-84c5-780071cd89c2">
+  <properties
+      key="Hosted Location"
+      value="veeamhost1 - Level 1 - 159 Port Road"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.42"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="Monitoring - PRTG Probe Server"/>
+  <properties
+      key="CPUCount"/>
+  <properties
+      key="Memory"/>
+  <properties
+      key="TotalSize"/>
+  <properties
+      key="OperatingSystem"/>
+</archimate:Device>

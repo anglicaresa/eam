@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SSCM"
+    id="2a3123ca-71a4-4a05-8abe-df35f0b60c58"
+    documentation="System Center Configrue Manager:&#xD;&#xA;Remote computer&#xD;&#xA;System center endpoint protection&#xD;&#xA;Automate windows update&#xD;&#xA;Push plugin to install&#xD;&#xA;"/>

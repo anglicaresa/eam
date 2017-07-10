@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CHAMP2013"
+    id="9e684a31-9e8f-4d47-9022-f25a889245c9">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.163"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="Champ Application"/>
+  <properties
+      key="CPUCount"
+      value="1"/>
+  <properties
+      key="Memory"
+      value="8192"/>
+  <properties
+      key="TotalSize"
+      value="85903540224"/>
+  <properties
+      key="OperatingSystem"
+      value="Windows Server 2012 R2 Standard"/>
+</archimate:Device>

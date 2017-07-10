@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stakeholder Viewpoint: Organisation"
+    id="533aa761-3f28-49eb-853a-5352d7eff9f9">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f3937cdc-9eba-4968-83ab-d9629155f603">
+    <bounds
+        x="60"
+        y="264"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_b7394330-cdc4-4c24-96a9-aec1228e3579.xml#b7394330-cdc4-4c24-96a9-aec1228e3579"/>
+  </children>
+</archimate:ArchimateDiagramModel>

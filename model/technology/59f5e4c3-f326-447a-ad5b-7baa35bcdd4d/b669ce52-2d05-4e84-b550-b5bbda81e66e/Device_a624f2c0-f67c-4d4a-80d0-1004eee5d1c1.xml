@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EX2013-A"
+    id="a624f2c0-f67c-4d4a-80d0-1004eee5d1c1">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.11"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="Exchange 2013"/>
+  <properties
+      key="CPUCount"
+      value="4"/>
+  <properties
+      key="Memory"
+      value="32768"/>
+  <properties
+      key="TotalSize"
+      value="2495396970496"/>
+  <properties
+      key="OperatingSystem"
+      value="Windows Server 2012 R2 Standard"/>
+</archimate:Device>

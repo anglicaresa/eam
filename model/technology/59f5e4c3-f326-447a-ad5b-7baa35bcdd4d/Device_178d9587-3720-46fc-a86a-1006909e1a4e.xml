@@ -1,0 +1,25 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRTGPROBE2"
+    id="178d9587-3720-46fc-a86a-1006909e1a4e">
+  <properties
+      key="Hosted Location"
+      value="Vmware Blade (VMWARE-H01)"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.161"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="Monitoring - PRTG Probe Server"/>
+  <properties
+      key="CPUCount"/>
+  <properties
+      key="Memory"/>
+  <properties
+      key="TotalSize"/>
+  <properties
+      key="OperatingSystem"/>
+</archimate:Device>

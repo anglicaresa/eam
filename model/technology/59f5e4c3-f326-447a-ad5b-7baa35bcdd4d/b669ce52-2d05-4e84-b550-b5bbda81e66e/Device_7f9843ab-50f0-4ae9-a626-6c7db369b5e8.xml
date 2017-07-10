@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sparks"
+    id="7f9843ab-50f0-4ae9-a626-6c7db369b5e8">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.118"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="TechOne - PROD - DP server"/>
+  <properties
+      key="CPUCount"
+      value="4"/>
+  <properties
+      key="Memory"
+      value="8192"/>
+  <properties
+      key="TotalSize"
+      value="96640958464"/>
+  <properties
+      key="OperatingSystem"
+      value="64-bit edition of Windows Server 2008 R2 Standard"/>
+</archimate:Device>

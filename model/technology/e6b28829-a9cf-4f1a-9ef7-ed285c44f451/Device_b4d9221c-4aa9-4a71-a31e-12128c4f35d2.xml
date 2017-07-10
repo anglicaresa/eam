@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bender"
+    id="b4d9221c-4aa9-4a71-a31e-12128c4f35d2">
+  <properties
+      key="Hoted Location"
+      value="Bender - Ian Goerge Court"/>
+  <properties
+      key="IP"
+      value="10.10.16.10"/>
+  <properties
+      key="Role"
+      value="Physical"/>
+  <properties
+      key="Type"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+</archimate:Device>
