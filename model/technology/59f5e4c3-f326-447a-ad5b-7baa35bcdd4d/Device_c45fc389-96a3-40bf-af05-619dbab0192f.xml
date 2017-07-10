@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Matrix2013"
+    id="c45fc389-96a3-40bf-af05-619dbab0192f">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.64"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="SharePoint 2013"/>
+  <properties
+      key="CPUCount"
+      value="4"/>
+  <properties
+      key="Memory"
+      value="24576"/>
+  <properties
+      key="TotalSize"
+      value="110618317824"/>
+  <properties
+      key="OperatingSystem"
+      value="64-bit edition of Windows Server 2012 Standard"/>
+</archimate:Device>

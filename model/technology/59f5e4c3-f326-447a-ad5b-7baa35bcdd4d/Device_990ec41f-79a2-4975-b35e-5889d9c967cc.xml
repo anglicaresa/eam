@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FXXDAPE"
+    id="990ec41f-79a2-4975-b35e-5889d9c967cc">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.189"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="FXXDAPE Application"/>
+  <properties
+      key="CPUCount"
+      value="1"/>
+  <properties
+      key="Memory"
+      value="2048"/>
+  <properties
+      key="TotalSize"
+      value="23861395456"/>
+  <properties
+      key="OperatingSystem"
+      value="64-bit edition of Windows Server 2012 Standard"/>
+</archimate:Device>

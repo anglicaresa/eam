@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apex"
+    id="bd9d6195-0abc-4ec9-99e5-43f85f18dfc3">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.91"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="SQL Server"/>
+  <properties
+      key="CPUCount"
+      value="8"/>
+  <properties
+      key="Memory"
+      value="32768"/>
+  <properties
+      key="TotalSize"
+      value="461740769792"/>
+  <properties
+      key="OperatingSystem"
+      value="64-bit edition of Windows Server 2008 R2 Standard"/>
+</archimate:Device>

@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TED"
+    id="22dc77e6-906a-406b-8da4-1f99fc537bc4">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.114"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="SQL - PROD"/>
+  <properties
+      key="CPUCount"
+      value="8"/>
+  <properties
+      key="Memory"
+      value="53248"/>
+  <properties
+      key="TotalSize"
+      value="787128254464"/>
+  <properties
+      key="OperatingSystem"
+      value="64-bit edition of Windows Server 2008 R2 Enterprise"/>
+</archimate:Device>

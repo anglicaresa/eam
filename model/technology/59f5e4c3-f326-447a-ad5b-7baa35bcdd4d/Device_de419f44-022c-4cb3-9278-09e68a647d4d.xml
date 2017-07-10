@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tobor"
+    id="de419f44-022c-4cb3-9278-09e68a647d4d">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.17"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="TrackIT Application Server, VHI PC Kits App Server"/>
+  <properties
+      key="CPUCount"
+      value="1"/>
+  <properties
+      key="Memory"
+      value="1024"/>
+  <properties
+      key="TotalSize"
+      value="48355765760"/>
+  <properties
+      key="OperatingSystem"
+      value="Windows Server 2008 Standard 32-Bit"/>
+</archimate:Device>
