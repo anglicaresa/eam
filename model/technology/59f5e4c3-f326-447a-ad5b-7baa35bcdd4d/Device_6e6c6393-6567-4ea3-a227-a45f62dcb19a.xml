@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TITAN (W7AUD0360343)"
+    id="6e6c6393-6567-4ea3-a227-a45f62dcb19a">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.124"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="Titan - Building Management/Alarm Software"/>
+  <properties
+      key="CPUCount"
+      value="1"/>
+  <properties
+      key="Memory"
+      value="512"/>
+  <properties
+      key="TotalSize"
+      value="53695479808"/>
+  <properties
+      key="OperatingSystem"
+      value="Unknown"/>
+</archimate:Device>

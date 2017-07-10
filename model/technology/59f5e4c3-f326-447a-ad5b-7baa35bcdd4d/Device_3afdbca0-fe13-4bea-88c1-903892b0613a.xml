@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eddie"
+    id="3afdbca0-fe13-4bea-88c1-903892b0613a">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.46"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="TS Application Server - CIM/FAMCOM"/>
+  <properties
+      key="CPUCount"
+      value="4"/>
+  <properties
+      key="Memory"
+      value="4096"/>
+  <properties
+      key="TotalSize"
+      value="39735331840"/>
+  <properties
+      key="OperatingSystem"
+      value="Windows Server 2003 Standard Edition (32-bit x86)"/>
+</archimate:Device>

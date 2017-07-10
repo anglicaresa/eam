@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Weebo"
+    id="c4ae7242-21c4-4faf-8b1f-4d2320523bd4">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.179"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="Terminal Server CALs"/>
+  <properties
+      key="CPUCount"
+      value="1"/>
+  <properties
+      key="Memory"
+      value="1024"/>
+  <properties
+      key="TotalSize"
+      value="107413510656"/>
+  <properties
+      key="OperatingSystem"
+      value="Windows Server 2008 Standard 32-Bit"/>
+</archimate:Device>

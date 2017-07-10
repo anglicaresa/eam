@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GORT"
+    id="1dccf740-ad3a-4fc0-bb21-6b7b42baa656">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.33"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="TS Application Server - CIM/FAMCOM"/>
+  <properties
+      key="CPUCount"
+      value="4"/>
+  <properties
+      key="Memory"
+      value="4096"/>
+  <properties
+      key="TotalSize"
+      value="60017488384"/>
+  <properties
+      key="OperatingSystem"
+      value="Windows Server 2008 Standard 32-Bit"/>
+</archimate:Device>

@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Duey"
+    id="bcac6ec8-3b2d-4456-85ac-6cc22b31f902">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - 2012R2UCSCLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.115"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="TechOne - TRAIN"/>
+  <properties
+      key="CPUCount"
+      value="8"/>
+  <properties
+      key="Memory"
+      value="16384"/>
+  <properties
+      key="TotalSize"
+      value="96640958464"/>
+  <properties
+      key="OperatingSystem"
+      value="64-bit edition of Windows Server 2008 R2 Standard"/>
+</archimate:Device>
