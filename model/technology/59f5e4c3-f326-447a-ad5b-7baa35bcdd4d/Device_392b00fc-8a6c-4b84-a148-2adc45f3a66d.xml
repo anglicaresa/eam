@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DRVEEAM1"
+    id="392b00fc-8a6c-4b84-a148-2adc45f3a66d">
+  <properties
+      key="Hosted Location"
+      value="DRHOST1 - All Hallows"/>
+  <properties
+      key="IP Address"
+      value="10.10.27.30"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="Veeam Backup and Replication - DR Site"/>
+  <properties
+      key="CPUCount"
+      value="4"/>
+  <properties
+      key="Memory"
+      value="12000"/>
+  <properties
+      key="TotalSize"
+      value="17480536817664"/>
+  <properties
+      key="OperatingSystem"
+      value="Windows Server 2012 R2 Standard"/>
+</archimate:Device>

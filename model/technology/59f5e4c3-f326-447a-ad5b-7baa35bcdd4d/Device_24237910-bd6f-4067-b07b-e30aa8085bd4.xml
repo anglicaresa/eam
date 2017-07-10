@@ -1,0 +1,25 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AH-DC01"
+    id="24237910-bd6f-4067-b07b-e30aa8085bd4">
+  <properties
+      key="Hosted Location"
+      value="All Hallows - DR Hyper V Cluster"/>
+  <properties
+      key="IP Address"
+      value="10.10.27.9"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="Site Server - DC/DNS/DHCP/FILE/PRINT"/>
+  <properties
+      key="CPUCount"/>
+  <properties
+      key="Memory"/>
+  <properties
+      key="TotalSize"/>
+  <properties
+      key="OperatingSystem"/>
+</archimate:Device>

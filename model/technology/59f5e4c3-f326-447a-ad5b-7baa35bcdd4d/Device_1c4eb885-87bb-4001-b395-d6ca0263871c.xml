@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CTXXDM"
+    id="1c4eb885-87bb-4001-b395-d6ca0263871c">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Host - vdi-dmztest-1"/>
+  <properties
+      key="IP Address"
+      value="10.0.0.10"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="Citrix XenMobile - MDM (Decomission Soon)"/>
+  <properties
+      key="CPUCount"
+      value="2"/>
+  <properties
+      key="Memory"
+      value="4096"/>
+  <properties
+      key="TotalSize"
+      value="53691285504"/>
+  <properties
+      key="OperatingSystem"
+      value="Windows Server 2012 R2 Standard"/>
+</archimate:Device>

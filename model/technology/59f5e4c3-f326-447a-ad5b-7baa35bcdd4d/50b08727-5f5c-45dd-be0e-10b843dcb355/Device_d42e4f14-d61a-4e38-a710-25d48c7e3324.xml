@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VDIVMM2012R2-A"
+    id="d42e4f14-d61a-4e38-a710-25d48c7e3324">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - VDI2012R2-CLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.182"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="SC VMM - Cluster Node"/>
+  <properties
+      key="CPUCount"
+      value="2"/>
+  <properties
+      key="Memory"
+      value="16384"/>
+  <properties
+      key="TotalSize"
+      value="53691285504"/>
+  <properties
+      key="OperatingSystem"
+      value="Windows Server 2012 R2 Standard"/>
+</archimate:Device>

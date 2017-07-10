@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VDIUTL2012R2-A"
+    id="4ca37d01-46af-4c56-9d5a-477a5668d5a3">
+  <properties
+      key="Hosted Location"
+      value="Hyper V Cluster - VDI2012R2-CLSTR"/>
+  <properties
+      key="IP Address"
+      value="10.10.1.233"/>
+  <properties
+      key="Type"
+      value="Virtual"/>
+  <properties
+      key="Role"
+      value="XenApp"/>
+  <properties
+      key="CPUCount"
+      value="2"/>
+  <properties
+      key="Memory"
+      value="4096"/>
+  <properties
+      key="TotalSize"
+      value="20673724416"/>
+  <properties
+      key="OperatingSystem"
+      value="Windows Server 2012 R2 Standard"/>
+</archimate:Device>
