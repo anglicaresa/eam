@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comcare SSRS Reports"
+    id="5089b4ae-e4fc-455c-bb8a-2ece6cd539f8"
+    documentation="Reports developed by AnglcareSA Comcare project team using SSRS.">
+  <properties
+      key="url"
+      value="http://devsql-1/Reports_WHOUSE/Pages/Folder.aspx"/>
+</archimate:ApplicationComponent>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Comcare - Mobile App"
-    id="2b60bdd7-780d-4878-93bb-99c538af32fd"/>
+    id="2b60bdd7-780d-4878-93bb-99c538af32fd"
+    documentation="Mobile app to record provider's clock in and clock out.&#xD;&#xA;Android version."/>
