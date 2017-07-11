@@ -1,7 +1,7 @@
 <archimate:SketchModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EA Repository Structure: Capability Level"
+    name="TA Repository Structure: Capability Level"
     id="0cf33f14-7d85-472a-a207-51721437bf1a">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -10,8 +10,8 @@
     <bounds
         x="12"
         y="24"
-        width="745"
-        height="553"/>
+        width="1177"
+        height="733"/>
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="090b78fa-ca58-4da8-aa2f-2be80824cc67"
@@ -19,236 +19,378 @@
       <bounds
           x="36"
           y="48"
-          width="313"
-          height="481"/>
+          width="601"
+          height="649"/>
       <children
-          xsi:type="archimate:DiagramModelGroup"
-          id="705de78e-1ba3-4e35-a0cd-5ffc5cda6587"
-          name="Baseline">
+          xsi:type="archimate:SketchModelSticky"
+          id="b14f48f2-9b94-4f44-9754-d6de3163280a"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#c9e7b7"
+          content="BT structure: (program)">
         <bounds
             x="24"
-            y="36"
+            y="588"
             width="253"
-            height="193"/>
-        <children
-            xsi:type="archimate:SketchModelSticky"
-            id="3fcfbf24-a1b5-4935-a271-84e67140ec0f"
-            name="Sticky"
-            lineColor="#5c5c5c"
-            textAlignment="1"
-            fillColor="#ffffb5"
-            content="Business Architecture">
-          <bounds
-              x="24"
-              y="36"
-              width="193"
-              height="37"/>
-        </children>
-        <children
-            xsi:type="archimate:SketchModelSticky"
-            id="c1a51171-dc72-4c77-8b03-d4ba8fe5580f"
-            name="Sticky"
-            lineColor="#5c5c5c"
-            textAlignment="1"
-            fillColor="#b5ffff"
-            content="Application &amp; Data Architecture">
-          <bounds
-              x="24"
-              y="84"
-              width="193"
-              height="37"/>
-        </children>
-        <children
-            xsi:type="archimate:SketchModelSticky"
-            id="b14f48f2-9b94-4f44-9754-d6de3163280a"
-            name="Sticky"
-            lineColor="#5c5c5c"
-            textAlignment="1"
-            fillColor="#c9e7b7"
-            content="Technology Architecture">
-          <bounds
-              x="24"
-              y="132"
-              width="193"
-              height="37"/>
-        </children>
+            height="37"/>
       </children>
       <children
-          xsi:type="archimate:DiagramModelGroup"
-          id="073de134-f1f2-4f34-94f6-12cfd9a6abaa"
-          name="Target">
+          xsi:type="archimate:SketchModelSticky"
+          id="c1a51171-dc72-4c77-8b03-d4ba8fe5580f"
+          name="Sticky"
+          targetConnections="56cfebbd-854e-414f-aafd-1e4cebd68eb4"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#b5ffff"
+          content="BA structure: (program)&#xD;&#xA;">
         <bounds
             x="24"
-            y="252"
+            y="468"
             width="253"
-            height="193"/>
-        <children
-            xsi:type="archimate:SketchModelSticky"
-            id="c583d13e-234e-45f6-9f52-e38409d7f8bb"
-            name="Sticky"
-            lineColor="#5c5c5c"
-            textAlignment="1"
-            fillColor="#ffffb5"
-            content="Business Architecture">
-          <bounds
-              x="24"
-              y="36"
-              width="193"
-              height="37"/>
-        </children>
-        <children
-            xsi:type="archimate:SketchModelSticky"
-            id="b2b9e4bd-77ab-4d1b-be7e-c313e657a97e"
-            name="Sticky"
-            lineColor="#5c5c5c"
-            textAlignment="1"
-            fillColor="#b5ffff"
-            content="Application &amp; Data Architecture">
-          <bounds
-              x="24"
-              y="84"
-              width="193"
-              height="37"/>
-        </children>
-        <children
-            xsi:type="archimate:SketchModelSticky"
-            id="f169fa28-831b-4d27-8bcd-d7a4f7815dce"
-            name="Sticky"
-            lineColor="#5c5c5c"
-            textAlignment="1"
-            fillColor="#c9e7b7"
-            content="Technology Architecture">
-          <bounds
-              x="24"
-              y="132"
-              width="193"
-              height="37"/>
-        </children>
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="3fcfbf24-a1b5-4935-a271-84e67140ec0f"
+          name="Sticky"
+          targetConnections="a3acfee3-a5a4-45a6-9613-44a029ac9596"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffb5"
+          content="BB process: (process)&#x9;">
+        <bounds
+            x="24"
+            y="204"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="4d39c8b6-bb54-4858-9039-0cf10d2758ed"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffb5"
+          content="BB function: (program)">
+        <bounds
+            x="24"
+            y="108"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="6b274196-ba47-4639-922d-edf2d95c4800"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffb5"
+          content="BB process co-operation: (process)&#xD;&#xA;">
+        <bounds
+            x="24"
+            y="156"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="506f8d62-31a8-44e2-9a45-d189c3b7a990"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffb5"
+          content="TB process: (process)&#x9;">
+        <bounds
+            x="300"
+            y="156"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="e5cedf24-d321-4081-8896-d7ff2f6da3fd"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffb5"
+          content="TB organisation structure: (program)">
+        <bounds
+            x="300"
+            y="60"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="1f5bcfd3-e1a3-4598-9328-95369c32893d"
+          name="Sticky"
+          targetConnections="b099e2d2-2f9d-41aa-b5d1-fb35b4eea30c"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffb5"
+          content="TB process co-operation: (process)&#xD;&#xA;">
+        <bounds
+            x="300"
+            y="204"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="ef186928-1895-4d97-a954-e82d51e9b42c"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffb5"
+          content="BB organisation structure: (program)">
+        <bounds
+            x="24"
+            y="60"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="3a5f68df-b550-4d5e-87a1-736b612dbe31"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffb5"
+          content="TB function: (program)">
+        <bounds
+            x="300"
+            y="108"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="5313899b-76c0-4313-a625-b03dcfa8b987"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#b5ffff"
+          content="BA cooperation: (business function)&#xD;&#xA;">
+        <bounds
+            x="24"
+            y="324"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="d691ffc3-a439-464a-8937-c492c8db86d5"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#b5ffff"
+          content="BA usage: (process)&#xD;&#xA;">
+        <sourceConnections
+            id="a3acfee3-a5a4-45a6-9613-44a029ac9596"
+            source="d691ffc3-a439-464a-8937-c492c8db86d5"
+            target="3fcfbf24-a1b5-4935-a271-84e67140ec0f"/>
+        <bounds
+            x="24"
+            y="276"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="117e2a10-8776-42d3-8ddc-1d3479434364"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#b5ffff"
+          content="BA behaviour: (program)&#xD;&#xA;">
+        <bounds
+            x="24"
+            y="372"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="898a837a-ea55-4801-8220-16f0e6f3b6d8"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#c9e7b7"
+          content="BT usage: (program)">
+        <sourceConnections
+            id="56cfebbd-854e-414f-aafd-1e4cebd68eb4"
+            source="898a837a-ea55-4801-8220-16f0e6f3b6d8"
+            target="c1a51171-dc72-4c77-8b03-d4ba8fe5580f"/>
+        <bounds
+            x="24"
+            y="540"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="64551c68-98e0-463d-9c71-72ce1f21e58d"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#b5ffff"
+          content="TA usage: (process)&#xD;&#xA;">
+        <sourceConnections
+            id="b099e2d2-2f9d-41aa-b5d1-fb35b4eea30c"
+            source="64551c68-98e0-463d-9c71-72ce1f21e58d"
+            target="1f5bcfd3-e1a3-4598-9328-95369c32893d"/>
+        <bounds
+            x="300"
+            y="276"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="03288b58-3a37-449e-a0e5-334e17d31fe9"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#b5ffff"
+          content="TA cooperation: (business function)&#xD;&#xA;">
+        <bounds
+            x="300"
+            y="324"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="367cd913-6ee4-4f04-a0c6-956ceba6916b"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#b5ffff"
+          content="TA behaviour: (program)&#xD;&#xA;">
+        <bounds
+            x="300"
+            y="372"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="fd55c476-5bb6-401c-a1c8-510ca1f74d0e"
+          name="Sticky"
+          targetConnections="e2fadcea-e124-41b0-b5bb-9d09882d9f9f"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#b5ffff"
+          content="TA structure: (program)&#xD;&#xA;">
+        <bounds
+            x="301"
+            y="468"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="c44778e9-40f2-414d-bca8-22b0e87fc84c"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#c9e7b7"
+          content="TT usage: (program)">
+        <sourceConnections
+            id="e2fadcea-e124-41b0-b5bb-9d09882d9f9f"
+            source="c44778e9-40f2-414d-bca8-22b0e87fc84c"
+            target="fd55c476-5bb6-401c-a1c8-510ca1f74d0e"/>
+        <bounds
+            x="301"
+            y="540"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="780725ff-85d1-46ad-bf85-30f560aecb11"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#c9e7b7"
+          content="TT structure: (program)">
+        <bounds
+            x="300"
+            y="588"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="ac8cea62-dbc1-4ab6-990e-cb2e1540a3aa"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#d7d7d7"
+          content="BASELINE">
+        <bounds
+            x="83"
+            y="24"
+            width="135"
+            height="32"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="c1b81fcd-d9d3-4d95-989d-b21d2e4fbef0"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#d7d7d7"
+          content="TARGET">
+        <bounds
+            x="360"
+            y="24"
+            width="135"
+            height="32"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="240a96b8-5637-45b8-a4f1-e588e6731aef"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#b5ffff"
+          content="BA information structure: (program)&#xD;&#xA;">
+        <bounds
+            x="24"
+            y="420"
+            width="253"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="23a0d326-47a2-45ab-b838-317647de1892"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#b5ffff"
+          content="TA information structure: (program)&#xD;&#xA;">
+        <bounds
+            x="300"
+            y="420"
+            width="253"
+            height="37"/>
       </children>
     </children>
     <children
-        xsi:type="archimate:DiagramModelGroup"
-        id="7149fef8-e33c-47ac-b685-9325aa0a8a9b"
-        name="Program B">
+        xsi:type="archimate:SketchModelSticky"
+        id="b4633aed-3c7b-4d43-94f5-c5fef2fea577"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="TB organisation structure: (program)&#xD;&#xA;&#xD;&#xA;BB - Baseline Business&#xD;&#xA;BA - Baseline Application&#xD;&#xA;BT - Baseline Technology&#xD;&#xA;TB - Target Business&#xD;&#xA;TA - Target Application&#xD;&#xA;TT - Target Technology">
       <bounds
-          x="372"
-          y="48"
-          width="313"
-          height="481"/>
-      <children
-          xsi:type="archimate:DiagramModelGroup"
-          id="eaaec880-1fad-4061-98a0-18a06ebceafa"
-          name="Baseline">
-        <bounds
-            x="24"
-            y="48"
-            width="253"
-            height="193"/>
-        <children
-            xsi:type="archimate:SketchModelSticky"
-            id="409952ea-c241-4d28-ac31-7b8e3de2270f"
-            name="Sticky"
-            lineColor="#5c5c5c"
-            textAlignment="1"
-            fillColor="#ffffb5"
-            content="Business Architecture">
-          <bounds
-              x="24"
-              y="36"
-              width="193"
-              height="37"/>
-        </children>
-        <children
-            xsi:type="archimate:SketchModelSticky"
-            id="47619bda-e701-44d8-bc69-f831778845b8"
-            name="Sticky"
-            lineColor="#5c5c5c"
-            textAlignment="1"
-            fillColor="#b5ffff"
-            content="Application &amp; Data Architecture">
-          <bounds
-              x="24"
-              y="84"
-              width="193"
-              height="37"/>
-        </children>
-        <children
-            xsi:type="archimate:SketchModelSticky"
-            id="373a255c-079e-417f-a397-16165c6d8af7"
-            name="Sticky"
-            lineColor="#5c5c5c"
-            textAlignment="1"
-            fillColor="#c9e7b7"
-            content="Technology Architecture">
-          <bounds
-              x="24"
-              y="132"
-              width="193"
-              height="37"/>
-        </children>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelGroup"
-          id="3622b868-02c0-4d83-9fc7-53609f17f0b3"
-          name="Target">
-        <bounds
-            x="24"
-            y="264"
-            width="253"
-            height="193"/>
-        <children
-            xsi:type="archimate:SketchModelSticky"
-            id="c71a3f7b-0427-4ac5-b346-423b8d256c3a"
-            name="Sticky"
-            lineColor="#5c5c5c"
-            textAlignment="1"
-            fillColor="#ffffb5"
-            content="Business Architecture">
-          <bounds
-              x="24"
-              y="36"
-              width="193"
-              height="37"/>
-        </children>
-        <children
-            xsi:type="archimate:SketchModelSticky"
-            id="f87843c0-9427-4df8-8ef3-78e00b804f5b"
-            name="Sticky"
-            lineColor="#5c5c5c"
-            textAlignment="1"
-            fillColor="#b5ffff"
-            content="Application &amp; Data Architecture">
-          <bounds
-              x="24"
-              y="84"
-              width="193"
-              height="37"/>
-        </children>
-        <children
-            xsi:type="archimate:SketchModelSticky"
-            id="625db808-1c68-4526-97b4-e62998919243"
-            name="Sticky"
-            lineColor="#5c5c5c"
-            textAlignment="1"
-            fillColor="#c9e7b7"
-            content="Technology Architecture">
-          <bounds
-              x="24"
-              y="132"
-              width="193"
-              height="37"/>
-        </children>
-      </children>
+          x="684"
+          y="108"
+          width="253"
+          height="169"/>
     </children>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="83b3a782-3166-453e-b780-51a7b0c6d04b"
-      name="Service Stream B">
-    <bounds
-        x="780"
-        y="12"
-        width="400"
-        height="565"/>
   </children>
 </archimate:SketchModel>
