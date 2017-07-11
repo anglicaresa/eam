@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Infrastructure Usage Viewpoint:IT"
+    name="Infrastructure Usage Viewpoint:IT-Virtual Server Host"
     id="9ff47a1b-0a26-46c5-983b-a3ac181e46d4"
     viewpoint="technology_usage">
   <children
