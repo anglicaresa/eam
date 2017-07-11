@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Office 365 Service"
+    id="a2d668ed-cf56-4466-998e-daa49a24a6b2">
+  <properties
+      key="Provider"
+      value="Microsoft"/>
+</archimate:TechnologyService>

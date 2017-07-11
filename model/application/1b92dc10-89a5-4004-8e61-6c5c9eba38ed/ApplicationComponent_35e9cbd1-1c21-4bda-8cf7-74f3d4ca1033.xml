@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CIM update console"
+    id="35e9cbd1-1c21-4bda-8cf7-74f3d4ca1033"
+    documentation="download update packages for CIM&#xD;&#xA;">
+  <properties
+      key="url"
+      value="http://cim.net.au/ "/>
+</archimate:ApplicationComponent>

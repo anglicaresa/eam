@@ -1,7 +1,6 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="work actvity data"
     id="867d0405-1fe5-4576-8507-afb70135bab0">
   <source
       xsi:type="archimate:ApplicationComponent"

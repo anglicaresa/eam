@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mode Files"
+    name="Model Files"
     id="0009ff25-b9b7-4ba2-aa10-702c8c62dfc2">
   <source
       xsi:type="archimate:ApplicationComponent"

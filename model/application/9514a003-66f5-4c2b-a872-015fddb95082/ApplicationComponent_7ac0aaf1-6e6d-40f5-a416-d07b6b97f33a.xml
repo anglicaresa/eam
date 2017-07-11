@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kypera Portal for Maintenance and contrats"
+    id="7ac0aaf1-6e6d-40f5-a416-d07b6b97f33a">
+  <properties
+      key="url"
+      value="https://kypera.anglicare-sa.org.au/TenantPortal/Account/Login.aspx"/>
+</archimate:ApplicationComponent>

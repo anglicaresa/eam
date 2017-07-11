@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Archimate"
+    name="Archi"
     id="abc8cd3d-1cc0-4838-9cc1-8ff66cdb79c2"
     documentation="Archimate is well suited to documenting Anglicare's architecture. It is designed to work with the TOGAF framework and provides a pre-built metamodel of the architecture layers that need documenting.">
   <properties
