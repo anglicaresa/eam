@@ -1,4 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BOM"
-    id="9499e29c-e7a8-48bc-98eb-0b2f148b1984"/>
+    id="9499e29c-e7a8-48bc-98eb-0b2f148b1984"
+    documentation="get weather data from BOM for data warehouse">
+  <properties
+      key="url"
+      value="http://www.bom.gov.au/"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kypera Castleton console"
+    id="bf29bcf4-753e-4a83-8c03-378b2eb6d959"
+    documentation="Support tickekt management to Kypera">
+  <properties
+      key="url"
+      value="https://castletonplc.selfservice.vivantio.com/Account/LoggedOut "/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DSS Portal"
+    id="7fffffa7-2865-4fab-8c57-d7c8c96f5529"
+    documentation="DEX data upload for Department of Social Services.">
+  <properties
+      key="url"
+      value="https://staging-dex.dss.gov.au/"/>
+</archimate:ApplicationComponent>

@@ -1,11 +1,11 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Inspection data"
-    id="68c8fbcb-5e8e-4236-a912-69c300758f02">
+    name="Kypera data"
+    id="dd363a68-8385-4217-9bed-638c952c9924">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_d51eb3a8-3ab1-40fb-9073-fd9a4b579d1d.xml#d51eb3a8-3ab1-40fb-9073-fd9a4b579d1d"/>
+      href="ApplicationComponent_dc3afb28-553f-47ea-92be-f199b28f9340.xml#dc3afb28-553f-47ea-92be-f199b28f9340"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_11966845-599f-4379-a306-4abfdc62c10d.xml#11966845-599f-4379-a306-4abfdc62c10d"/>
