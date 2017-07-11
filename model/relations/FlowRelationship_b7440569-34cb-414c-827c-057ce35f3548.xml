@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintenance Fee"
+    id="b7440569-34cb-414c-827c-057ce35f3548">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_36fb2b82-65d5-4aa3-b058-1a55d918cc6d.xml#36fb2b82-65d5-4aa3-b058-1a55d918cc6d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_04af0b59-da99-466f-a890-094d06d8d41e.xml#04af0b59-da99-466f-a890-094d06d8d41e"/>
+</archimate:FlowRelationship>

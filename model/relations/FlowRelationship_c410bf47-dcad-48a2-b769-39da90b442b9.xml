@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Order Contractor Data"
+    id="c410bf47-dcad-48a2-b769-39da90b442b9">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_0fb85254-799c-43f4-afa8-739140186b36.xml#0fb85254-799c-43f4-afa8-739140186b36"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_36fb2b82-65d5-4aa3-b058-1a55d918cc6d.xml#36fb2b82-65d5-4aa3-b058-1a55d918cc6d"/>
+</archimate:FlowRelationship>

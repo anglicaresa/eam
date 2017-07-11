@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Order"
+    id="85e2e392-7da5-4556-823e-4e79ede6d40a">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d970999c-783c-4bf9-a326-e2cd6aad7319.xml#d970999c-783c-4bf9-a326-e2cd6aad7319"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_36fb2b82-65d5-4aa3-b058-1a55d918cc6d.xml#36fb2b82-65d5-4aa3-b058-1a55d918cc6d"/>
+</archimate:FlowRelationship>

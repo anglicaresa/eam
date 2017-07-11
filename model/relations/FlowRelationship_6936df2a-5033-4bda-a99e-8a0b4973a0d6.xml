@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rent Fee"
+    id="6936df2a-5033-4bda-a99e-8a0b4973a0d6">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_289f309d-6581-4841-a2f4-a8cb0c9a9044.xml#289f309d-6581-4841-a2f4-a8cb0c9a9044"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_04af0b59-da99-466f-a890-094d06d8d41e.xml#04af0b59-da99-466f-a890-094d06d8d41e"/>
+</archimate:FlowRelationship>
