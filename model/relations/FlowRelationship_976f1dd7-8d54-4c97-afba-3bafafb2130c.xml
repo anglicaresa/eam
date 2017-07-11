@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintenance data"
+    id="976f1dd7-8d54-4c97-afba-3bafafb2130c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_7ac0aaf1-6e6d-40f5-a416-d07b6b97f33a.xml#7ac0aaf1-6e6d-40f5-a416-d07b6b97f33a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_36fb2b82-65d5-4aa3-b058-1a55d918cc6d.xml#36fb2b82-65d5-4aa3-b058-1a55d918cc6d"/>
+</archimate:FlowRelationship>
