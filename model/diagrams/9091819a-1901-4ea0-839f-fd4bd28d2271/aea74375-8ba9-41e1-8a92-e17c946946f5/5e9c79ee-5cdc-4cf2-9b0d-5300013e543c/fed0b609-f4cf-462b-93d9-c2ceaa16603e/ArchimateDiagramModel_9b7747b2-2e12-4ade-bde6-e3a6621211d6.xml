@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Process Viewpoint: Refresh data warehouse"
+    name="TB process: Refresh data warehouse"
     id="9b7747b2-2e12-4ade-bde6-e3a6621211d6">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

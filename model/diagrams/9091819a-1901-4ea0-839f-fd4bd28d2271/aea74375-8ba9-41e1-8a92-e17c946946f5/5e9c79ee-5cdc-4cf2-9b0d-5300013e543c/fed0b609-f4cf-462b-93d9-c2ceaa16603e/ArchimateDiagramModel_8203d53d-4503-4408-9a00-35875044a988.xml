@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Cooperation Viewpoint: DWH"
+    name="BA: cooperation: Data warehouse"
     id="8203d53d-4503-4408-9a00-35875044a988">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
