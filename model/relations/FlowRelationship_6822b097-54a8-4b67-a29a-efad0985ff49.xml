@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vacancy Status"
+    id="6822b097-54a8-4b67-a29a-efad0985ff49">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d970999c-783c-4bf9-a326-e2cd6aad7319.xml#d970999c-783c-4bf9-a326-e2cd6aad7319"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_289f309d-6581-4841-a2f4-a8cb0c9a9044.xml#289f309d-6581-4841-a2f4-a8cb0c9a9044"/>
+</archimate:FlowRelationship>

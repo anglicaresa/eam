@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DEX XML Files"
+    id="c0414c27-715f-498a-8436-df738aebda49">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_59341c50-1ee0-44ce-91a0-59efa82b69fa.xml#59341c50-1ee0-44ce-91a0-59efa82b69fa"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_7fffffa7-2865-4fab-8c57-d7c8c96f5529.xml#7fffffa7-2865-4fab-8c57-d7c8c96f5529"/>
+</archimate:FlowRelationship>

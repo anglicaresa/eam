@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="client and task data"
+    name="activity data"
     id="09d83ded-5537-4964-b3b0-3e2892176a8d">
   <source
       xsi:type="archimate:ApplicationComponent"

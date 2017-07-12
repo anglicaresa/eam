@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ANZ Bank"
-    id="be07952a-c3a3-4e6a-91b8-2c1a5750fa67"/>
+    id="be07952a-c3a3-4e6a-91b8-2c1a5750fa67"
+    documentation="Finance."/>

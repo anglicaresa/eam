@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Housing inspection data"
+    name="Inspection data"
     id="68c8fbcb-5e8e-4236-a912-69c300758f02">
   <source
       xsi:type="archimate:ApplicationComponent"

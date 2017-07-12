@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inspection Data"
+    id="03c60f69-15c2-4d0d-bf2d-00f95ea99015">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d51eb3a8-3ab1-40fb-9073-fd9a4b579d1d.xml#d51eb3a8-3ab1-40fb-9073-fd9a4b579d1d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d970999c-783c-4bf9-a326-e2cd6aad7319.xml#d970999c-783c-4bf9-a326-e2cd6aad7319"/>
+</archimate:FlowRelationship>

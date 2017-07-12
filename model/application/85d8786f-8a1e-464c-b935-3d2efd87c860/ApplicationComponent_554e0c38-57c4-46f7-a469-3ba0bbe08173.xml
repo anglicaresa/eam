@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ANZ Expense Manager"
+    id="554e0c38-57c4-46f7-a469-3ba0bbe08173"
+    documentation="Finance">
+  <properties
+      key="url"
+      value="https://www.expensemanager.anz.com/anglicaresa/pm/base/logon.asp"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Power BI website and Develop tool"
+    id="bb94ee24-eade-4065-ae1f-96b92eaffc13">
+  <properties
+      key="Provider"
+      value="Microsoft"/>
+</archimate:TechnologyService>
