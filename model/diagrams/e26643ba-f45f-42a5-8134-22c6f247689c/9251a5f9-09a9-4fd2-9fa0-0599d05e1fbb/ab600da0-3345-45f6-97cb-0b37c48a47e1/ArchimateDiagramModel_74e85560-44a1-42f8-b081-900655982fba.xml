@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Usage Viewpoint: Kypera - House Maintenance"
+    name="BA Usage: Kypera - House Maintenance"
     id="74e85560-44a1-42f8-b081-900655982fba">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
