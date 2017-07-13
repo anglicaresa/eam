@@ -7,6 +7,6 @@
       xsi:type="archimate:Artifact"
       href="Artifact_b9ddd78a-03ca-4773-b1b7-f3b14abca93a.xml#b9ddd78a-03ca-4773-b1b7-f3b14abca93a"/>
   <target
-      xsi:type="archimate:Node"
-      href="Node_acffe753-8cd4-45a4-bd07-361b4f3921f7.xml#acffe753-8cd4-45a4-bd07-361b4f3921f7"/>
+      xsi:type="archimate:Device"
+      href="Device_02c1982c-606d-4120-b1bf-a7de0c2649a3.xml#02c1982c-606d-4120-b1bf-a7de0c2649a3"/>
 </archimate:AssociationRelationship>
