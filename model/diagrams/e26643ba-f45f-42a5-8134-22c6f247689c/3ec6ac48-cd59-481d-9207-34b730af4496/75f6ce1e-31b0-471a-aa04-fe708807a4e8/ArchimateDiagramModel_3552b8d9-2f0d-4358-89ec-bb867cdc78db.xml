@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Process Viewpoint: Payroll"
+    name="BB Process: Payroll"
     id="3552b8d9-2f0d-4358-89ec-bb867cdc78db">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

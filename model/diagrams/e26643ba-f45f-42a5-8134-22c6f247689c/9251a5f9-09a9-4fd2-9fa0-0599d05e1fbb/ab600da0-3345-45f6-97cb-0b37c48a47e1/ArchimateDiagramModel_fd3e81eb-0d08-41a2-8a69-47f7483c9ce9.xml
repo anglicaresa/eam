@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Function Viewpoint: IT"
+    name="BB Function: IT"
     id="fd3e81eb-0d08-41a2-8a69-47f7483c9ce9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
