@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Xerox"
     id="f42c9cf9-c8a1-4acc-943c-3cc8918e8917"
-    documentation="Printer management&#xD;&#xA;"/>
+    documentation="Printer management&#xD;&#xA;">
+  <properties
+      key="url"
+      value="http://xerox-iga01/accruadmin/(S(fxd1gz550j5kbwyonf3uzfnw))/Details.aspx"/>
+</archimate:ApplicationComponent>

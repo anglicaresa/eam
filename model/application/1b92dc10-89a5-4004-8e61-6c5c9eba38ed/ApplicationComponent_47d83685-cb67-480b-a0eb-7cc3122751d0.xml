@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PC to SMS"
-    id="47d83685-cb67-480b-a0eb-7cc3122751d0"/>
+    id="47d83685-cb67-480b-a0eb-7cc3122751d0">
+  <properties
+      key="url"
+      value="https://manager.message-media.com/#userhome.systemadmin.users"/>
+</archimate:ApplicationComponent>
