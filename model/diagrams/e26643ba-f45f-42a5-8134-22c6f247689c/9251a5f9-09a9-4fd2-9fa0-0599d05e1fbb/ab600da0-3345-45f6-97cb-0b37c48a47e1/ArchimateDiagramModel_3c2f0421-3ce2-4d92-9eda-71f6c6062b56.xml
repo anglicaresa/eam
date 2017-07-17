@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="TM stackholder: IT"
+    name="TM Stackholder: IT"
     id="3c2f0421-3ce2-4d92-9eda-71f6c6062b56">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -138,7 +138,7 @@
     </sourceConnections>
     <bounds
         x="256"
-        y="222"
+        y="198"
         width="120"
         height="55"/>
     <archimateElement
@@ -273,7 +273,7 @@
     </sourceConnections>
     <bounds
         x="256"
-        y="288"
+        y="276"
         width="120"
         height="55"/>
     <archimateElement
@@ -390,5 +390,17 @@
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_d9745bc5-41dd-49c6-81ea-be20b7dc2661.xml#d9745bc5-41dd-49c6-81ea-be20b7dc2661"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a8d7e20f-5fa9-4973-9e1b-9f3b59370373">
+    <bounds
+        x="76"
+        y="-12"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_a79f76a3-9c56-41fb-826d-178ba6e249ce.xml#a79f76a3-9c56-41fb-826d-178ba6e249ce"/>
   </children>
 </archimate:ArchimateDiagramModel>
