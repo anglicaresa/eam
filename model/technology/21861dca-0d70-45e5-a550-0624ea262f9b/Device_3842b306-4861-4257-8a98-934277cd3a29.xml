@@ -23,5 +23,5 @@
       value="WINDOWS SERVER 2012R2"/>
   <properties
       key="ROLE"
-      value="Integration Hub Server using SSIS"/>
+      value="Integration Hub Server using IIS"/>
 </archimate:Device>
