@@ -1,0 +1,9 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure Database"
+    id="d1a4b61a-a435-445b-9174-504f57468323"
+    documentation="Cloud-based Database service provided by Microsoft">
+  <properties
+      key="Provider"
+      value="Microsoft"/>
+</archimate:Device>
