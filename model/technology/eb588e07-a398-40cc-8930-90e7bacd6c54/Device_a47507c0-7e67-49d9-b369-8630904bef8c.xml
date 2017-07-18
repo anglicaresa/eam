@@ -21,4 +21,7 @@
   <properties
       key="SYSTEM"
       value="Win 2012 R2"/>
+  <properties
+      key="ROLE"
+      value="SQL Server - TechOne Production"/>
 </archimate:Device>

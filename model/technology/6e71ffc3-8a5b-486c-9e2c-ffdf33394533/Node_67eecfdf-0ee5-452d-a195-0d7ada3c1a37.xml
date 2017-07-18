@@ -1,4 +1,9 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Firewall"
-    id="67eecfdf-0ee5-452d-a195-0d7ada3c1a37"/>
+    id="67eecfdf-0ee5-452d-a195-0d7ada3c1a37"
+    documentation="Keep the data of our business safe.&#xD;&#xA;">
+  <properties
+      key="Purpose"
+      value="Keep the data of our business safe."/>
+</archimate:Node>
