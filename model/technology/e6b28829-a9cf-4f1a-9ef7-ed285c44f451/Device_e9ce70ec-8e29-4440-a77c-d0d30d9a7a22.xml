@@ -1,0 +1,9 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PowerBI Website"
+    id="e9ce70ec-8e29-4440-a77c-d0d30d9a7a22"
+    documentation="Cloud-based BI service provided by Microsoft">
+  <properties
+      key="Provider"
+      value="Microsoft"/>
+</archimate:Device>

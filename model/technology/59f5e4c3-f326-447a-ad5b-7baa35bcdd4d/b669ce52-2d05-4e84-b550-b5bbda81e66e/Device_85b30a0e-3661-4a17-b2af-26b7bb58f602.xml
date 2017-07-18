@@ -1,7 +1,8 @@
 <archimate:Device
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="COMCAREWEB-2"
-    id="85b30a0e-3661-4a17-b2af-26b7bb58f602">
+    id="85b30a0e-3661-4a17-b2af-26b7bb58f602"
+    documentation="ComCare Prod Web Server">
   <properties
       key="Hosted Location"
       value="Hyper V Cluster - 2012R2UCSCLSTR"/>
@@ -14,12 +15,4 @@
   <properties
       key="Role"
       value="Comcare Prod"/>
-  <properties
-      key="CPUCount"/>
-  <properties
-      key="Memory"/>
-  <properties
-      key="TotalSize"/>
-  <properties
-      key="OperatingSystem"/>
 </archimate:Device>

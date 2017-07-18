@@ -20,4 +20,7 @@
   <properties
       key="Memory"
       value="1GB"/>
+  <properties
+      key="Role"
+      value="EA Web Site Server"/>
 </archimate:Device>

@@ -21,4 +21,7 @@
   <properties
       key="SYSTEM"
       value="Windows Server 2012 "/>
+  <properties
+      key="ROLE"
+      value="Comcare SharperLight (PROD/DEV/TEST)"/>
 </archimate:Device>
