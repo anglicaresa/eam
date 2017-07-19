@@ -21,4 +21,7 @@
   <properties
       key="SYSTEM"
       value="Win 2008 R2"/>
+  <properties
+      key="ROLE"
+      value="TechOne - PROD"/>
 </archimate:Device>

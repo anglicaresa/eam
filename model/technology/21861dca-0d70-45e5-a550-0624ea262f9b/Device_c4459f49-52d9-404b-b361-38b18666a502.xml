@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="APPSQL-3"
     id="c4459f49-52d9-404b-b361-38b18666a502"
-    documentation="MS SQL Server 2012 DB">
+    documentation="Database server from Comcare prod.">
   <properties
       key="NAME"
       value="APPSQL-3"/>
