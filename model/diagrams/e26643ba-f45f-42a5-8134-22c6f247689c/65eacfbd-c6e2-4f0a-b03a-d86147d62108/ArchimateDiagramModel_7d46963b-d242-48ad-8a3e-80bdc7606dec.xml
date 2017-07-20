@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BB Process: Rostering"
+    name="BB Process: Roster management"
     id="7d46963b-d242-48ad-8a3e-80bdc7606dec">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

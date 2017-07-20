@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB Process: Time &amp; attendance management"
+    id="bd8d5f06-e788-4b31-be99-be85a373cba3">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="25742673-c67e-48ad-bbb7-05d2a7a4cfb6">
+    <bounds
+        x="312"
+        y="284"
+        width="721"
+        height="137"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_0a7c818d-4e8e-44a7-932c-5eb8429dd40b.xml#0a7c818d-4e8e-44a7-932c-5eb8429dd40b"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rostered/leave"
+    id="d9247566-2fb0-4d02-824c-f04b42b706bb">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_71f80622-bd69-4df4-af51-4a07244a7587.xml#71f80622-bd69-4df4-af51-4a07244a7587"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_4b3018cf-33c4-439f-a095-0305cb9c9119.xml#4b3018cf-33c4-439f-a095-0305cb9c9119"/>
+</archimate:FlowRelationship>

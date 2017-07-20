@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB Process: Leave management"
+    id="50a00c4d-52a6-4fb0-bb93-2c6cca300fe9">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a414a1b0-67d4-4115-aa93-7585cf642947">
+    <bounds
+        x="407"
+        y="288"
+        width="542"
+        height="109"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_af7a4dd6-3eb4-4f88-ad3e-e5e99a60267e.xml#af7a4dd6-3eb4-4f88-ad3e-e5e99a60267e"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Myselfservice"
+    name="CIA HRP"
     id="a2c70f2f-2846-43fa-b085-476f8821ecb1"
     documentation="Timesheet and leave management system for employee.&#xD;&#xA;External could hosted web application.&#xD;&#xA;">
   <properties

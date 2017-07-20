@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Timesheet Export Service"
-    id="6126edb5-079a-4d59-9c90-43e2807168a8"/>
+    id="6126edb5-079a-4d59-9c90-43e2807168a8"
+    documentation="Provides timesheet export capability"/>
