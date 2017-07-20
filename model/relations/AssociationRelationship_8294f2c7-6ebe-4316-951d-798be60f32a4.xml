@@ -7,6 +7,6 @@
       xsi:type="archimate:Location"
       href="Location_f00d4373-d26c-4803-90fa-90fa224b03be.xml#f00d4373-d26c-4803-90fa-90fa224b03be"/>
   <target
-      xsi:type="archimate:TechnologyService"
-      href="TechnologyService_cc01b795-2a73-474e-878c-7d323e8fdef5.xml#cc01b795-2a73-474e-878c-7d323e8fdef5"/>
+      xsi:type="archimate:Location"
+      href="Location_aeb0bcbc-a00a-4b44-ac81-2d109d5879e0.xml#aeb0bcbc-a00a-4b44-ac81-2d109d5879e0"/>
 </archimate:AssociationRelationship>
