@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BT Data Architecture:IT"
+    name="BA Information structure: IT"
     id="39c17b7b-9b12-4d30-b2c8-4c885bf9eec2"
     documentation="Current Data Objects against the Business Objects"
     viewpoint="information_structure">
