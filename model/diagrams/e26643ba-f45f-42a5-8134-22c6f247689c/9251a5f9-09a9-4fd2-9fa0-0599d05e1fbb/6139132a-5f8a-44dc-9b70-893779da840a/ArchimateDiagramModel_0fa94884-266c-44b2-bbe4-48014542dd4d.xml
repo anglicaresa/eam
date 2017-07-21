@@ -107,18 +107,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="3e1846ea-5f20-4e73-9cdc-269947b232b7">
-    <bounds
-        x="-324"
-        y="675"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:DataObject"
-        href="DataObject_593c6088-3a8e-4ad4-9b08-6b55b79cff0e.xml#593c6088-3a8e-4ad4-9b08-6b55b79cff0e"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="6c2ac51d-f192-4f05-9dab-7d919e1a1fa4"
       targetConnections="23b27e25-62c8-49e8-b129-b536abf5ea17">
     <bounds
