@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BD Structure Finance- Data Mart Overview"
-    id="57953eed-9ba5-483a-bf46-f395c3ad9de7">
+    id="57953eed-9ba5-483a-bf46-f395c3ad9de7"
+    connectionRouterType="2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6dc8deab-d47f-4168-82c7-ea1590ec03c2"
@@ -183,7 +184,7 @@
       targetConnections="da0ad3f8-dd09-496d-b26f-ef70cd57e2c4 66ce4586-6c95-4940-bdcc-5962c6ad9522 6b6234d9-d734-431e-ac79-47a28d894f34 9aafebd6-d56c-466a-abfb-efaa4790cb80 164e10f2-a0eb-426c-ae9c-948ef2a04d92 4c921852-972e-46ef-8eef-883e37e2a11c abeb1222-5b87-43f0-87a3-a91e27c362df 86d54b8e-ddd5-4588-bd70-8ad18e832759 244b193f-44fb-43a1-9d4d-1c68084e53b8 3e07dff8-824f-42d9-a318-852fb31c711a fa6200b6-4281-4239-ba39-74b3cb555893 426979de-42bc-4156-a595-c88c65826af1 9abb9d77-bf98-4e4f-be80-340fd2e9b765">
     <bounds
         x="-1127"
-        y="48"
+        y="36"
         width="120"
         height="55"/>
     <archimateElement
