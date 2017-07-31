@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="TB Organisation structure: IT"
-    id="13236c91-0f2f-43e8-857f-9d5f7c443031">
+    id="13236c91-0f2f-43e8-857f-9d5f7c443031"
+    documentation="The model illustrates the prgrams within the Information and Technology department. ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="50b14e22-152d-4ea0-b2b0-b88e06653a3c"

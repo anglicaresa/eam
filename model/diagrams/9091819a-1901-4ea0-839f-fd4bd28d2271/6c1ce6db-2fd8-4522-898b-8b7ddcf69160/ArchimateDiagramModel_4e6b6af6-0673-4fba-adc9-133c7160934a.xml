@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Organisation structure: Active Living"
-    id="4e6b6af6-0673-4fba-adc9-133c7160934a">
+    id="4e6b6af6-0673-4fba-adc9-133c7160934a"
+    documentation="The model illustrates the portfolios and service streams in active living. ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="168476a8-4f2b-419a-a3d9-48574b0429fb"

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Function: IT"
-    id="fd3e81eb-0d08-41a2-8a69-47f7483c9ce9">
+    id="fd3e81eb-0d08-41a2-8a69-47f7483c9ce9"
+    documentation="The model illustrates the use of business functions, as well as the relationship between business functions and business processes in the information technology department at their current state.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="627a2e76-3902-4e14-ab84-0cf7fdce5a4f"

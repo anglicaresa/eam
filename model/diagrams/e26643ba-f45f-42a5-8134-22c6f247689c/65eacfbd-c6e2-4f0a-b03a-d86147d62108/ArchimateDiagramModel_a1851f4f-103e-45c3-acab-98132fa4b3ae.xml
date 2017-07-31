@@ -1,4 +1,5 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Process: Change client visit"
-    id="a1851f4f-103e-45c3-acab-98132fa4b3ae"/>
+    id="a1851f4f-103e-45c3-acab-98132fa4b3ae"
+    documentation="The model illustrates the Business Process viewpoint for Change Client Visit and is used to show the high-level structure and composition of the business process for changing a clients visit. "/>

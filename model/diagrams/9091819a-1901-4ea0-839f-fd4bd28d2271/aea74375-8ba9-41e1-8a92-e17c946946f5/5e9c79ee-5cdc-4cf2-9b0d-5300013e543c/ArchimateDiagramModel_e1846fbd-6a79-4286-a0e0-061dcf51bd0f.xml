@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Organisation structure: IT"
     id="e1846fbd-6a79-4286-a0e0-061dcf51bd0f"
+    documentation="The model illustrates the baseline organisation structure within the Information Technolofy Department."
     viewpoint="organization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

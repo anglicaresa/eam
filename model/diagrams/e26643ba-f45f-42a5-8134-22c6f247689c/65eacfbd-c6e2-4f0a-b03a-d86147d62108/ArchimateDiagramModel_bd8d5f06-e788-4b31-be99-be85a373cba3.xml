@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Process: Time &amp; attendance management"
-    id="bd8d5f06-e788-4b31-be99-be85a373cba3">
+    id="bd8d5f06-e788-4b31-be99-be85a373cba3"
+    documentation="The model illustrates the Business Process viewpoint for Time and Attendance Management and is used to show the high-level structure and composition of the business process for time and attendance management.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="25742673-c67e-48ad-bbb7-05d2a7a4cfb6">

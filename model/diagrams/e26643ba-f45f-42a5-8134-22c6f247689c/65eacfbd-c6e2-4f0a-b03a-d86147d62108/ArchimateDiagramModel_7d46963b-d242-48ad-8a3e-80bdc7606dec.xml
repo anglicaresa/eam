@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Process: Roster management"
-    id="7d46963b-d242-48ad-8a3e-80bdc7606dec">
+    id="7d46963b-d242-48ad-8a3e-80bdc7606dec"
+    documentation="The model illustrates the Business Process viewpoint for Roster Management and is used to show the high-level structure and composition of the business process for rostering employees. ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="d7caf437-b38d-4d86-b472-ee268d5fb425">

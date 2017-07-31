@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Organisation structure"
-    id="acb55abb-d38f-4680-90b8-335e31192453">
+    id="acb55abb-d38f-4680-90b8-335e31192453"
+    documentation="The model illustrates the different programs within Anglicare.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="51eae167-1d51-49d3-b20a-b7a320e9cb67"
