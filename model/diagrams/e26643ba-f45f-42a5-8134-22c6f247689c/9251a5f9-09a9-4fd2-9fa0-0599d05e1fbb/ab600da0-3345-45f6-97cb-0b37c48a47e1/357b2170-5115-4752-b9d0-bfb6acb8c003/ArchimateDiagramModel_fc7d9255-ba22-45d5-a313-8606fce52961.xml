@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Process: Support request"
-    id="fc7d9255-ba22-45d5-a313-8606fce52961">
+    id="fc7d9255-ba22-45d5-a313-8606fce52961"
+    documentation="The model illustrates the Business Process viewpoint for support request and is used to show the high-level structure and composition of the business process for support requests. ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="797d1f6a-fb2d-4f21-a1e2-65ec181ce9da"

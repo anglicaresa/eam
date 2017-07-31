@@ -2,7 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Process Cooperation: System Support"
-    id="554b45b3-0177-446d-b636-c776f70b5f3c">
+    id="554b45b3-0177-446d-b636-c776f70b5f3c"
+    documentation="The model illustrates the business process co-operation viewpoint for system support is used to show the relationships of between each business process and/or with their environment."
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a3b50cdc-3d3a-4bab-9fa7-df4a628ccf3b"
