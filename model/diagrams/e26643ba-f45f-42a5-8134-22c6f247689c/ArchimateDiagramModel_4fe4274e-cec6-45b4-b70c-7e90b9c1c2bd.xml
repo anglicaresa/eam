@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="TM Motivation: Organisation"
     id="4fe4274e-cec6-45b4-b70c-7e90b9c1c2bd"
+    documentation="This viewpoint shows high level organisational goals, principals and requirements. It is primarily used to convey the organisation strategic plan."
     viewpoint="motivation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="TM Principles: Organisation"
-    id="c77a137e-52c6-44c1-9554-b52c6648cc93">
+    id="c77a137e-52c6-44c1-9554-b52c6648cc93"
+    documentation="A principle defines a general property that applies to any system in a certain context. In effect, it is a similar to a requirement, but it's scope is broader and more abstract. This viewpoint lists all of Anglicare's Principals, divided into the four different architectural layers.">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="e5532abe-bdea-4b80-8ec3-d9184f2f53e2"
