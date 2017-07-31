@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Process: Onboarding"
-    id="5064dcb3-f96c-48ab-a724-990134f60be4">
+    id="5064dcb3-f96c-48ab-a724-990134f60be4"
+    documentation="The model illustrates the Business Process viewpoint for Onboarding and is used to show the high-level structure and composition of the business process for onaboarding a new employee, volunteer or student. ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bde574b6-de52-4cee-ae13-48cff26364a0">

@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Process: System change"
     id="a1520795-eadc-4aba-818f-695f7af31986"
+    documentation="The model illustrates the Business Process viewpoint for System Change and is used to show the high-level structure and composition of the business process for system change. "
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
