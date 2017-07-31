@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Process: Leave management"
-    id="50a00c4d-52a6-4fb0-bb93-2c6cca300fe9">
+    id="50a00c4d-52a6-4fb0-bb93-2c6cca300fe9"
+    documentation="The model illustrates the Business Process viewpoint for Leave Management and is used to show the high-level structure and composition of the business process for managing employee leave requests. ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a414a1b0-67d4-4115-aa93-7585cf642947">

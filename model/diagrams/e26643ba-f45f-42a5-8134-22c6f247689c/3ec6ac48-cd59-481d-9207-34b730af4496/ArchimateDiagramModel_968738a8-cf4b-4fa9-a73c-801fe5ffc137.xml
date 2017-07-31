@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Process: Offboarding"
-    id="968738a8-cf4b-4fa9-a73c-801fe5ffc137">
+    id="968738a8-cf4b-4fa9-a73c-801fe5ffc137"
+    documentation="The model illustrates the Business Process viewpoint for Offboarding and is used to show the high-level structure and composition of the Offboarding business process.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="404ceefe-a21d-4371-aaa1-666413c35d98">

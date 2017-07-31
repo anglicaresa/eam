@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Organisation structure: People &amp; Culture"
-    id="32987d14-bf64-42ee-871a-403abcdc964f">
+    id="32987d14-bf64-42ee-871a-403abcdc964f"
+    documentation="The organisation struture illustrates the program structure within the People and Culture department.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0040b0d5-e32e-46d7-8624-ea5bae233fe0"
