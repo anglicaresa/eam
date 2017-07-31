@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="TM Stackholder: IT"
-    id="3c2f0421-3ce2-4d92-9eda-71f6c6062b56">
+    id="3c2f0421-3ce2-4d92-9eda-71f6c6062b56"
+    documentation="This viewpoint shows stakeholder drivers, assessments and goals. These goals form the basis for the requirements engineering process, including goal refinement, contribution and conflict analysis, and the derivation of requirements that realise the goals.&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5e81d68f-9f69-43b3-8377-46855e99f635">
