@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BT Structure: Comcare"
     id="a9bce2c2-de7b-4ea2-b04f-63b84d97663a"
+    documentation="This model shows all the servers for Comcare System."
     viewpoint="technology">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

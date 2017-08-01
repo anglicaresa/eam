@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BT deployment:Comcare"
     id="10b6705a-47d6-4073-8e21-5cc0d1d64a89"
+    documentation="This model shows the servers for Comcare that deployed to the modules respectively."
     viewpoint="technology_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

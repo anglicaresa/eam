@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BT Structure: IT"
     id="1938bf55-8882-4b0e-acac-0a5c83b810dd"
+    documentation="The model illustrates all sites and the servers inside."
     viewpoint="technology">
   <children
       xsi:type="archimate:DiagramModelGroup"

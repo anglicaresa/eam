@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BT Usage: TechOne"
     id="e55aa4cc-b345-4ee4-bacb-551b4aeb28af"
+    documentation="This model shows the servers' relationship for TechOne."
     viewpoint="technology_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
