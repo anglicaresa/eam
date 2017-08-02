@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BT Usage: Comcare "
     id="ea48b1d5-6963-444d-bc3e-da63b0be50d5"
+    documentation="This model shows the relationship among servers,technology services, and application componants."
     viewpoint="technology_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

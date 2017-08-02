@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BA Structure: ComCare"
     id="9eec39a2-2662-42f7-bbb6-75ca1fb246df"
-    documentation="by JS "
+    documentation="This model  shows the structure of ComCare components."
     viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

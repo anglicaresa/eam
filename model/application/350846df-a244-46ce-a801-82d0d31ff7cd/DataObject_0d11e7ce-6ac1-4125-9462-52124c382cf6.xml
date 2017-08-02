@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Repository Documents"
-    id="0d11e7ce-6ac1-4125-9462-52124c382cf6"/>
+    id="0d11e7ce-6ac1-4125-9462-52124c382cf6"
+    documentation="Repository documents for EA project."/>

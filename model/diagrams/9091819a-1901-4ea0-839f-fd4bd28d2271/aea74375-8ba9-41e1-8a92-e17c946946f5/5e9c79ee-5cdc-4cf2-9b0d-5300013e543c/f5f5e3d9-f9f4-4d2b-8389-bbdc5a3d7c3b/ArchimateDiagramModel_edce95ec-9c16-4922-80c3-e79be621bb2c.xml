@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BA Structure: Kypera"
-    id="edce95ec-9c16-4922-80c3-e79be621bb2c">
+    id="edce95ec-9c16-4922-80c3-e79be621bb2c"
+    documentation="This model  shows the structure of Kypera components.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="046a663c-0f0e-4e29-bbd5-bccd4c1e74d6"

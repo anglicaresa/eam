@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Communication Data"
-    id="61624511-3e56-41c3-89e7-08487d81d0e6"/>
+    id="61624511-3e56-41c3-89e7-08487d81d0e6"
+    documentation="Team commmunication data."/>

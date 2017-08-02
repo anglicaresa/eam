@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BA Cooperation: Kypera"
-    id="780a776c-be14-413c-8cbe-eb105f8b6e33">
+    id="780a776c-be14-413c-8cbe-eb105f8b6e33"
+    documentation="This model describes the relationships between Kypera applications components.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7116b56c-aa28-4268-a060-54165785398c"

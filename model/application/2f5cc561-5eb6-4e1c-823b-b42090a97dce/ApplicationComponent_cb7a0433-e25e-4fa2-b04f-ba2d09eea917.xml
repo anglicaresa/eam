@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Actuals Upload"
-    id="cb7a0433-e25e-4fa2-b04f-ba2d09eea917"/>
+    id="cb7a0433-e25e-4fa2-b04f-ba2d09eea917"
+    documentation="Upload actuals to client for billing process."/>

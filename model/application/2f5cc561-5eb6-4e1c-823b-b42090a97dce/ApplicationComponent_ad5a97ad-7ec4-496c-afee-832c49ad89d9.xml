@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Human Resources"
-    id="ad5a97ad-7ec4-496c-afee-832c49ad89d9"/>
+    id="ad5a97ad-7ec4-496c-afee-832c49ad89d9"
+    documentation="Human resource management function."/>

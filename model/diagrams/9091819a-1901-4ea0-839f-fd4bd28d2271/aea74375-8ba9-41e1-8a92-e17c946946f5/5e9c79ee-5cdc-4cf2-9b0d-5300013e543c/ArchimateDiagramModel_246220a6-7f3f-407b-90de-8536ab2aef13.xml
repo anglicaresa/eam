@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BA Cooperation: IT"
     id="246220a6-7f3f-407b-90de-8536ab2aef13"
+    documentation="This model describes the relationships between IT applications."
     viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

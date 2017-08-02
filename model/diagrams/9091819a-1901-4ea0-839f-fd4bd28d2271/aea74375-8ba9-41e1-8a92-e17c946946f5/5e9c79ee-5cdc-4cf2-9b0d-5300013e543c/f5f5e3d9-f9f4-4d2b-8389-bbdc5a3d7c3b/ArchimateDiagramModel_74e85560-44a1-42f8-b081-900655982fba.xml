@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BA Usage: Kypera - House Maintenance"
-    id="74e85560-44a1-42f8-b081-900655982fba">
+    id="74e85560-44a1-42f8-b081-900655982fba"
+    documentation="This model  describes how Kypera applications are used to support House Maintenance  process.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a168e4da-e9cc-402c-bfc0-1816e6ee8b4f"

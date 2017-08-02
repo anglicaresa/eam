@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BT Usage:IT-Cloud-based Service"
     id="ed4b34c2-44db-4a63-8df1-311c54b1deb4"
+    documentation="The diagram shows all cloud-based service we use."
     viewpoint="technology">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

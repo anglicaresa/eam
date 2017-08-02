@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BT deployment:Kypera"
-    id="af81dfe2-224c-4c10-a1f3-aae09c0d4d78">
+    id="af81dfe2-224c-4c10-a1f3-aae09c0d4d78"
+    documentation="This model shows the servers for Kypera that deployed to the modules respectively.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="cd3bb262-1295-4841-9762-15223afbafa9"
