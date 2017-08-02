@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Process Flows"
-    id="0561af00-0fdb-405f-a678-6bec212d204e"/>
+    id="0561af00-0fdb-405f-a678-6bec212d204e"
+    documentation="Process flows function."/>

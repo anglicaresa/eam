@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integration Service"
-    id="cce4af09-56c8-4019-8a68-bd5322d21fde"/>
+    id="cce4af09-56c8-4019-8a68-bd5322d21fde"
+    documentation="Provides data integration service between Comcare and TechOne payroll."/>

@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BA Usage: ComCare - Payroll Export"
     id="a1d81498-8da9-44f1-a0b1-8c00953c02f3"
-    documentation="by JS."
+    documentation="This model  describes how Comcare applications are used to support Payroll Export  process."
     viewpoint="application_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

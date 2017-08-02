@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Timesheet File"
-    id="e007befb-5ac5-41a4-a005-ab3f778d23de"/>
+    id="e007befb-5ac5-41a4-a005-ab3f778d23de"
+    documentation="Timesheet files  for payroll processing."/>

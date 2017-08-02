@@ -2,7 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BA Structure: IT_Overview"
-    id="ead856f2-b679-47d8-b9b7-aadb9c86f989">
+    id="ead856f2-b679-47d8-b9b7-aadb9c86f989"
+    documentation="This model  shows the structure of  IT applications."
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="dfc26b9b-e251-48b4-a3f7-650c9dd6a04d"

@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Model Document"
-    id="9bbb18e3-5679-4c7c-99f2-3b448588d222"/>
+    id="9bbb18e3-5679-4c7c-99f2-3b448588d222"
+    documentation="Model Document for EA project."/>

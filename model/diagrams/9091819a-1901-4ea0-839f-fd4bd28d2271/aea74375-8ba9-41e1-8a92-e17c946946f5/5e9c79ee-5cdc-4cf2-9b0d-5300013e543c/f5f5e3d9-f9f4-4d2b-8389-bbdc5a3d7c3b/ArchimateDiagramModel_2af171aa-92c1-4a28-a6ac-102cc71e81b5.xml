@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BA Behavior: Kypera"
-    id="2af171aa-92c1-4a28-a6ac-102cc71e81b5">
+    id="2af171aa-92c1-4a28-a6ac-102cc71e81b5"
+    documentation="This model  describes the internal behavior of Kypera.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f3701014-7385-421a-8b22-e3af2c6b10ba"

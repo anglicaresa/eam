@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BA Cooperation: ComCare"
-    id="7ea39594-b243-4a2c-a1fe-f816cf96860e">
+    id="7ea39594-b243-4a2c-a1fe-f816cf96860e"
+    documentation="This model describes the relationships between Comcare applications components.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7c983a6c-40b2-4140-9615-d8303d0449e8"

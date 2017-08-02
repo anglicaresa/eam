@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Client management service"
-    id="770aa76e-aaf2-4ef6-851e-392acb23ac4a"/>
+    id="770aa76e-aaf2-4ef6-851e-392acb23ac4a"
+    documentation="Provides client management service"/>

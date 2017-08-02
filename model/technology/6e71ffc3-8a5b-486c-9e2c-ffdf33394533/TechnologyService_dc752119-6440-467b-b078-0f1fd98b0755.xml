@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Network Service"
-    id="dc752119-6440-467b-b078-0f1fd98b0755"/>
+    id="dc752119-6440-467b-b078-0f1fd98b0755"
+    documentation="Provides network service."/>

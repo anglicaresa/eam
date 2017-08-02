@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="HRIS data mart"
-    id="421b8a9e-99fb-4077-abb9-8fbd12f50f20"/>
+    id="421b8a9e-99fb-4077-abb9-8fbd12f50f20"
+    documentation="Data mart for Human resource &amp; payroll."/>
