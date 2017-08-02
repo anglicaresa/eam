@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Process: Archive User"
-    id="0de02813-2455-4084-b3fa-9b18886d5fc9">
+    id="0de02813-2455-4084-b3fa-9b18886d5fc9"
+    documentation="The model illustrates the Business Process viewpoint for IT Assset Management and is used to show the high-level structure and composition of the  business process for The model illustrates IT asset management. ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="089d8f42-eccc-451d-92a2-9b478e7bd902">
