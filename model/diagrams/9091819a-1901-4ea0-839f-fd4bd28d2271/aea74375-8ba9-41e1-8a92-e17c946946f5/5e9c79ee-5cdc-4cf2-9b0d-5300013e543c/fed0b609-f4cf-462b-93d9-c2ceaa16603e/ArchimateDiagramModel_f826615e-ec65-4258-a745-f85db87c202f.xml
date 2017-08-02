@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BA Information structure:EA"
     id="f826615e-ec65-4258-a745-f85db87c202f"
+    documentation="The data used for EA project."
     viewpoint="information_structure">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
