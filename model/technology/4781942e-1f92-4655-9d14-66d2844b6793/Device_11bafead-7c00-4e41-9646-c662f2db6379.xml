@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWS-DC01"
+    id="11bafead-7c00-4e41-9646-c662f2db6379">
+  <properties
+      key="Architecture"
+      value="AMD64"/>
+  <properties
+      key="CPUCount"
+      value="1"/>
+  <properties
+      key="Hostname"
+      value="AWS-DC01"/>
+  <properties
+      key="IP"
+      value="10.150.1.10"/>
+  <properties
+      key="Instance Size"
+      value="t2.small"/>
+  <properties
+      key="Memory"
+      value="2G"/>
+  <properties
+      key="Role"
+      value="Domain Controller"/>
+  <properties
+      key="OperatingSystem"
+      value="Windows Server2012 R2"/>
+</archimate:Device>

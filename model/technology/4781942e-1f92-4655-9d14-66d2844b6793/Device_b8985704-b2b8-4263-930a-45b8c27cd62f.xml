@@ -23,4 +23,7 @@
   <properties
       key="Role"
       value="EA Web Site Server"/>
+  <properties
+      key="DISK"
+      value="40G"/>
 </archimate:Device>

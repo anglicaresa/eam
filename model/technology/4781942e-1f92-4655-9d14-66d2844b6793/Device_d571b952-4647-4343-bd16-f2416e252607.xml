@@ -1,0 +1,32 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWS-FS03"
+    id="d571b952-4647-4343-bd16-f2416e252607">
+  <properties
+      key="Architecture"
+      value="AMD64"/>
+  <properties
+      key="CPUCount"
+      value="1"/>
+  <properties
+      key="Hostname"
+      value="AWS-FS03"/>
+  <properties
+      key="IP"
+      value="10.150.1.11"/>
+  <properties
+      key="Instance Size"
+      value="t2.small"/>
+  <properties
+      key="Memory"
+      value="2G"/>
+  <properties
+      key="OperatingSystem"
+      value="Windows Server2012 R2"/>
+  <properties
+      key="Role"
+      value="File Server"/>
+  <properties
+      key="DISK"
+      value="650G"/>
+</archimate:Device>
