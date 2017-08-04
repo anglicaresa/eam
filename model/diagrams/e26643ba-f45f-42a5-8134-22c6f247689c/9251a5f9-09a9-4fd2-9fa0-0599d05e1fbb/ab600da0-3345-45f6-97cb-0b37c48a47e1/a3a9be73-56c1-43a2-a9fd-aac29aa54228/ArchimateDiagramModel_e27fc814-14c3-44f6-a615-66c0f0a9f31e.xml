@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Function Viewpoint: ComCare Project"
-    id="e27fc814-14c3-44f6-a615-66c0f0a9f31e">
+    id="e27fc814-14c3-44f6-a615-66c0f0a9f31e"
+    documentation="The model illustrates the use of business functions, as well as the relationship between business functions and business processes in IT.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0d968d80-3a93-4c7c-a2cd-447ba29d663e"
