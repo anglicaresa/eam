@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Function Viewpoint: Vendors"
-    id="3cc25f44-40aa-4c1b-80b8-98a179579a4c">
+    id="3cc25f44-40aa-4c1b-80b8-98a179579a4c"
+    documentation="The model illustrates the use of business functions, as well as the relationship between business functions and business processes in IT.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7d6b0d36-336c-4cc0-8135-7bfd5a69250c"

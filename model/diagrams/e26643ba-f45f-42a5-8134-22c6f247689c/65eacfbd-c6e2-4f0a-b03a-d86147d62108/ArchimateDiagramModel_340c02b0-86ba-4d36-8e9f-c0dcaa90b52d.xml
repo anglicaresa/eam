@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Layered: Rostering"
-    id="340c02b0-86ba-4d36-8e9f-c0dcaa90b52d">
+    id="340c02b0-86ba-4d36-8e9f-c0dcaa90b52d"
+    documentation="The model illustrates a layered business process viewpoint for rostering and is used to show the high-level structure and composition of the business process for rostering. Moreover, it shows how business processes interact with application and technology.  ">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="5a6e1ff8-c552-49d8-8ec5-afb031a8f281"
