@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BA Usage: Payroll"
     id="44561f53-7cbd-4e28-9e83-e9aab8dd8086"
+    documentation="This model shows how the application services are used by the Payroll business process."
     viewpoint="application_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
