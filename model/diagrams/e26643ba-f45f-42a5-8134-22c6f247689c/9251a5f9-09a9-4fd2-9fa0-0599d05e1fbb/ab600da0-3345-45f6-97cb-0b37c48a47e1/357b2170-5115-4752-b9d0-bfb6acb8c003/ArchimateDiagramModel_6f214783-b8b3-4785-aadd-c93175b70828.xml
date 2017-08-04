@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Process Cooperation: System Support (Riskman)"
     id="6f214783-b8b3-4785-aadd-c93175b70828"
-    documentation="The model illustrates the Business Process Co-Operation viewpoint for System Support for Riskman is used to show the relationships of between each business process and/or with their environment."
+    documentation="The model illustrates the Business Process Co-Operation viewpoint for System Support for Riskman and is used to show the relationships of between each business process and/or with their environment."
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

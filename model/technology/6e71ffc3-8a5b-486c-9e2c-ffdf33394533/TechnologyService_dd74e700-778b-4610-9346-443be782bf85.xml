@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="File Service"
-    id="dd74e700-778b-4610-9346-443be782bf85"/>
+    id="dd74e700-778b-4610-9346-443be782bf85"
+    documentation="Provides file share service."/>

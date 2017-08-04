@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BT Usage: IT-Component Server"
     id="f64c8e13-ed97-49bf-820e-0f65e3b373f0"
+    documentation="This model shows the overview of the servers deployed to the modules respectively."
     viewpoint="technology_usage">
   <children
       xsi:type="archimate:DiagramModelGroup"

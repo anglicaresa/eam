@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Project plans"
-    id="7f60efe2-0d8e-4127-8c73-6786fb7ef6d6"/>
+    id="7f60efe2-0d8e-4127-8c73-6786fb7ef6d6"
+    documentation="Project plans"/>

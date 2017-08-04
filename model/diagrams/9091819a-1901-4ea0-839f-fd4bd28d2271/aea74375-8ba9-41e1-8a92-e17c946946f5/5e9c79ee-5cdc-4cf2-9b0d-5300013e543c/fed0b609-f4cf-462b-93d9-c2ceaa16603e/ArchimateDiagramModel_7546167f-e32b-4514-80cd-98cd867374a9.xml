@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="TB process: Enterprise architecture"
-    id="7546167f-e32b-4514-80cd-98cd867374a9">
+    id="7546167f-e32b-4514-80cd-98cd867374a9"
+    documentation="The model illustrates the Business Process viewpoint for Enterprise Architecture and is used to show the high-level structure and composition of the Enterprise Architecture business process.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="40b77943-831d-4a30-a21b-f2c267bdeb3b"

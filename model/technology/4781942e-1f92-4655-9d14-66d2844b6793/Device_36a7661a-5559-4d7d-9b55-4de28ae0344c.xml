@@ -1,0 +1,32 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWS-KYWEB01"
+    id="36a7661a-5559-4d7d-9b55-4de28ae0344c">
+  <properties
+      key="Architecture"
+      value="AMD64"/>
+  <properties
+      key="CPUCount"
+      value="1"/>
+  <properties
+      key="Hostname"
+      value="AWS-KYWEB01"/>
+  <properties
+      key="IP"
+      value="10.150.1.12"/>
+  <properties
+      key="Instance Size"
+      value="t2.small"/>
+  <properties
+      key="Memory"
+      value="2G"/>
+  <properties
+      key="OperatingSystem"
+      value="Windows Server2016"/>
+  <properties
+      key="DISK"
+      value="50G"/>
+  <properties
+      key="Role"
+      value="Kypera Mobile Server"/>
+</archimate:Device>

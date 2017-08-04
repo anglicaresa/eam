@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BA: cooperation: Data warehouse"
-    id="8203d53d-4503-4408-9a00-35875044a988">
+    id="8203d53d-4503-4408-9a00-35875044a988"
+    documentation="This model describes the relationships between data warehouse  applications components.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5db4c854-3f6c-4258-8ce6-527d6cb3e632"

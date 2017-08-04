@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Project Artifact"
-    id="48d6afd0-60b7-48fa-be63-cb36751b463b"/>
+    id="48d6afd0-60b7-48fa-be63-cb36751b463b"
+    documentation="Project Artifact"/>

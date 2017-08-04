@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Citrix Farm"
-    id="a2c877c2-b001-4475-b5d3-ee8e03944a9a"/>
+    id="a2c877c2-b001-4475-b5d3-ee8e03944a9a"
+    documentation="visit intranet through Citrix."/>

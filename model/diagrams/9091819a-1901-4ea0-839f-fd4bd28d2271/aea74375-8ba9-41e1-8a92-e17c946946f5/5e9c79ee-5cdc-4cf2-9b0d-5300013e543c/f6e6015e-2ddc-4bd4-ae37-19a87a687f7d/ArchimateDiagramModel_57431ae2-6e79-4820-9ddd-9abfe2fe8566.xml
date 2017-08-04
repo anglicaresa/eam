@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BA Usage Rostering"
-    id="57431ae2-6e79-4820-9ddd-9abfe2fe8566">
+    id="57431ae2-6e79-4820-9ddd-9abfe2fe8566"
+    documentation="This model  describes how Comcare applications are used to support roster management process.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="53fb53f1-1dad-449d-aa1f-e772d40c57bd"

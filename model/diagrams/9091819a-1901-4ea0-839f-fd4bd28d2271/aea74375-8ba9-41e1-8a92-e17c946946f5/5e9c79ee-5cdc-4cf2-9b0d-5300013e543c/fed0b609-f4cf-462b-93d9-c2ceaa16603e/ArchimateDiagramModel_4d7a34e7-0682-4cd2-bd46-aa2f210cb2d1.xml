@@ -2,7 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="TB co-operation: Enterprise architecture"
-    id="4d7a34e7-0682-4cd2-bd46-aa2f210cb2d1">
+    id="4d7a34e7-0682-4cd2-bd46-aa2f210cb2d1"
+    documentation="The model illustrates the Business Process Co-Operation viewpoint for Enterprise Architecture and is used to show the relationships of between each business process and/or with their environment."
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="aa10937d-8229-4160-8946-13aa15c1180d"

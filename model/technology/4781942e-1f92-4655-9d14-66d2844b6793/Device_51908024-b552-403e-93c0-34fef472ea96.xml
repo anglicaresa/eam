@@ -1,0 +1,29 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWS-UTMO1"
+    id="51908024-b552-403e-93c0-34fef472ea96">
+  <properties
+      key="Architecture"
+      value="AMD64"/>
+  <properties
+      key="CPUCount"
+      value="1"/>
+  <properties
+      key="DISK"
+      value="100G"/>
+  <properties
+      key="Hostname"
+      value="AWS-UTMO1"/>
+  <properties
+      key="IP"
+      value="10.150.1.9"/>
+  <properties
+      key="Instance Size"
+      value="t1.micro"/>
+  <properties
+      key="Memory"
+      value="1G"/>
+  <properties
+      key="Role"
+      value="Sophos UTM FireWall"/>
+</archimate:Device>

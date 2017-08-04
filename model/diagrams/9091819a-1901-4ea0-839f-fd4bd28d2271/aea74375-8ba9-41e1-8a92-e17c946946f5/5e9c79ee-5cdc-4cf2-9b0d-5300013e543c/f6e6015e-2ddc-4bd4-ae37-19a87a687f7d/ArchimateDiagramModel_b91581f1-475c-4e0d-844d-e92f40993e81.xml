@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BA Cooperation: ComCare Internal"
     id="b91581f1-475c-4e0d-844d-e92f40993e81"
-    documentation="by JS "
+    documentation="This model describes the relationships between Comcare internal applications components."
     viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

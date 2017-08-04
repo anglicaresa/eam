@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="HTML Files"
-    id="d6c7ae9c-a823-4d75-9cf6-45e93b46eb0c"/>
+    id="d6c7ae9c-a823-4d75-9cf6-45e93b46eb0c"
+    documentation="HTML files exported from Archimate."/>

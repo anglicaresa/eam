@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Client Management"
-    id="9fba4ad8-42b1-47fb-b8e6-d82c33735b8d"/>
+    id="9fba4ad8-42b1-47fb-b8e6-d82c33735b8d"
+    documentation="Manage client function"/>

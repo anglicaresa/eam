@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BT Structure: IT-Virtual Server Host"
     id="9ff47a1b-0a26-46c5-983b-a3ac181e46d4"
+    documentation="The model illustrates all the on-premise virtual server we currently use."
     viewpoint="technology_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

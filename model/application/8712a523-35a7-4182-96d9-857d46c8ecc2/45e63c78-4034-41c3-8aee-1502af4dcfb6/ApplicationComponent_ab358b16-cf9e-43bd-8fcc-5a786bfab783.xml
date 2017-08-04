@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Backend"
-    id="ab358b16-cf9e-43bd-8fcc-5a786bfab783"/>
+    id="ab358b16-cf9e-43bd-8fcc-5a786bfab783"
+    documentation="Backend to process data."/>

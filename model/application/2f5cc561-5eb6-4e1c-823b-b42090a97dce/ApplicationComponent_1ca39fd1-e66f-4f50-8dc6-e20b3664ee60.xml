@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Payroll Export"
-    id="1ca39fd1-e66f-4f50-8dc6-e20b3664ee60"/>
+    id="1ca39fd1-e66f-4f50-8dc6-e20b3664ee60"
+    documentation="Export timesheet file for payroll"/>
