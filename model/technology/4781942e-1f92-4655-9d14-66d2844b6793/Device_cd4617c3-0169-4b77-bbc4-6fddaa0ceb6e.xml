@@ -1,0 +1,32 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWS-RPTG01"
+    id="cd4617c3-0169-4b77-bbc4-6fddaa0ceb6e">
+  <properties
+      key="Architecture"
+      value="AMD64"/>
+  <properties
+      key="CPUCount"
+      value="2"/>
+  <properties
+      key="DISK"
+      value="350G"/>
+  <properties
+      key="Hostname"
+      value="AWS-RPTG01"/>
+  <properties
+      key="IP"
+      value="10.150.1.12"/>
+  <properties
+      key="Instance Size"
+      value="t2.medium"/>
+  <properties
+      key="Memory"
+      value="4G"/>
+  <properties
+      key="OperatingSystem"
+      value="Windows Server2012 R2"/>
+  <properties
+      key="Role"
+      value="PRTG Monitering Central Server"/>
+</archimate:Device>
