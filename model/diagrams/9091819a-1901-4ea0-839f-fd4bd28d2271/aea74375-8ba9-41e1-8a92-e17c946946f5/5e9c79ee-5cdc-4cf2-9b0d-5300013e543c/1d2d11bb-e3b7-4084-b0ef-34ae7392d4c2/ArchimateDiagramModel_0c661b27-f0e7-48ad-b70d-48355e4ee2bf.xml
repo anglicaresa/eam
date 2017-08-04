@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BA Cooperation: Payroll"
     id="0c661b27-f0e7-48ad-b70d-48355e4ee2bf"
+    documentation="This model describes the data flow between systems for the Payroll business process."
     viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
