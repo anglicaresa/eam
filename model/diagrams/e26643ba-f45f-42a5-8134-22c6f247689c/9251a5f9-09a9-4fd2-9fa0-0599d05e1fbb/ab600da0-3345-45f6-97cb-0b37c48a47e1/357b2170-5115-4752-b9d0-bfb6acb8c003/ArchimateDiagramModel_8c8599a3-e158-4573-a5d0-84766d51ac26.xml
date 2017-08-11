@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Process: Document Management"
-    id="8c8599a3-e158-4573-a5d0-84766d51ac26">
+    id="8c8599a3-e158-4573-a5d0-84766d51ac26"
+    documentation="The model illustrates the business process viewpoint for document management and is used to show the high-level structure and composition of the  business process for document management. ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="356a7c5b-0370-464e-aef7-87abf1f55a31">
