@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BB Process: "
-    id="38df97e6-5597-4ed7-b9c2-70b74cd9adcb">
+    name="BB Process: IT System Change"
+    id="38df97e6-5597-4ed7-b9c2-70b74cd9adcb"
+    documentation="The model illustrates the business process viewpoint for system change and is used to show the high-level structure and composition of the  business process for system change. ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6db40879-e04e-467c-9b77-4ca844a2ee54">
