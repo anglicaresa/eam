@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BB Process: Archive User"
     id="0de02813-2455-4084-b3fa-9b18886d5fc9"
-    documentation="The model illustrates the Business Process viewpoint for IT user archiving and is used to show the high-level structure and composition of the  business process.">
+    documentation="The model illustrates the business rocess viewpoint for user archiving and is used to show the high-level structure and composition of the  user archiving business process. ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="089d8f42-eccc-451d-92a2-9b478e7bd902">
