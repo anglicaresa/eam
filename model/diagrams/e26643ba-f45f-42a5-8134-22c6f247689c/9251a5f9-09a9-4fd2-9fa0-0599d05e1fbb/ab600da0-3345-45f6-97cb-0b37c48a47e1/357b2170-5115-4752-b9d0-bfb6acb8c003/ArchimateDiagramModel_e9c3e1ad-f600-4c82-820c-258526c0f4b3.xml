@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BB Process: Work request"
+    name="BB Process: Work Request"
     id="e9c3e1ad-f600-4c82-820c-258526c0f4b3"
     documentation="The model illustrates the business process viewpoint for work request and is used to show the high-level structure and composition of the  business process for requesting work. ">
   <children
