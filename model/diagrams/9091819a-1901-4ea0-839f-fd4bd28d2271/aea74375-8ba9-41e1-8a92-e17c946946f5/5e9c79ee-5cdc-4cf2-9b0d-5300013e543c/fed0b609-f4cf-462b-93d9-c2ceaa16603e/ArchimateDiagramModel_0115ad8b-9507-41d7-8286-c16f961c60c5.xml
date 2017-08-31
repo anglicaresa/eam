@@ -6,19 +6,6 @@
     viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="1e178aad-95bd-4cad-9874-7ab15f51466c"
-      fillColor="#9bcdff">
-    <bounds
-        x="292"
-        y="274"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_fb637395-fc6f-4669-962f-22b4db762a4e.xml#fb637395-fc6f-4669-962f-22b4db762a4e"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="d473be13-e0ad-46c9-bc1e-d5ee1f321c7e"
       targetConnections="1c278cbe-9916-4903-9fcc-ee411b7fecbb"
       fillColor="#9bcdff">

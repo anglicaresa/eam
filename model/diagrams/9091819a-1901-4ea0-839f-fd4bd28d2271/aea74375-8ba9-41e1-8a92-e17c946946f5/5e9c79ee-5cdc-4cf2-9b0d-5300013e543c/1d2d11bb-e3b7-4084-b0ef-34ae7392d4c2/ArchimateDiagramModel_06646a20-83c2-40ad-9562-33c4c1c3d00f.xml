@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BA Structure: TechOne"
     id="06646a20-83c2-40ad-9562-33c4c1c3d00f"
+    documentation="This model shows the structure of TechOne components."
     viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
