@@ -13,7 +13,7 @@
       value="Virtual"/>
   <properties
       key="Role"
-      value="SQL - PROD"/>
+      value="SQL - PROD For Riskman"/>
   <properties
       key="CPUCount"
       value="8"/>
